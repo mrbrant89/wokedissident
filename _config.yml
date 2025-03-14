@@ -32,10 +32,10 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+copyright                : "Woke Dissident" # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
-  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : wokedissident # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -118,14 +118,14 @@ author:
   avatar           : "/assets/images/lone-figure-sq-1024px.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Woke Dissident cuts through the bullshit with sharp, unapologetic takes on politics, culture, and media hypocrisy. No safe spaces—just hard truths and harder questions."
   location         : "Fascist States of America"
-  email            :
+  email            : "hello@wokedissident.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hello@wokedissident.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://wokedissident.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
