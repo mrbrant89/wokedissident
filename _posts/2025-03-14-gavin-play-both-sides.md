@@ -11,7 +11,7 @@ tags:
   - MAGA
   - Democrats
   - Politics
-excerpt: Newsom is making the classic mistake: trying to win over MAGA voters who will never support him. By abandoning his values, he’s only alienating his base.
+excerpt: "Newsom is making the classic mistake: trying to win over MAGA voters who will never support him. By abandoning his values, he’s only alienating his base."
 header:
   image: /assets/images/2025/03/gavin-newsom-maga-pandering-2048px.jpg       # Twitter (use 'overlay_image')
   overlay_image: /assets/images/2025/03/gavin-newsom-maga-pandering-2048px.jpg  # Article header at 2048x768
