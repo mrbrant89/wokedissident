@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
 
@@ -7,3 +6,41 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* 2025-03-18 Featured Posts Grid */
+.related-posts-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .archive__item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .archive__item-teaser img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+  .archive__item-title {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+
+  @media (max-width: 1024px) {
+    .related-posts-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .related-posts-grid {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
