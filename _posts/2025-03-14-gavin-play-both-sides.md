@@ -31,8 +31,6 @@ But now? Now it’s clear that **this wasn’t about fairness.** It was about pa
 
 MAGA voters will **never** support Newsom, no matter how much he signals to them. Instead, he’s alienating the people who actually backed him. He’s torched his credibility, and possibly his future.
 
----
-
 ## A Timeline of Newsom’s Shift Toward MAGA Messaging
 
 ### February 26, 2025 – Announces Podcast Featuring MAGA Guests
@@ -100,8 +98,6 @@ Sound familiar? It’s straight from the GOP playbook.
 **Reaction:**
 - **Border-state Republicans cheered.**
 - **Immigrant-rights groups were horrified.**
-
----
 
 ## Newsom’s Big Mistake: MAGA Won’t Save Him
 
