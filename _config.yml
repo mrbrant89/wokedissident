@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 site.name                : "Woke Dissident"
 site.title               : "Woke Dissident"
-title_separator          : #"|"
-subtitle                 : #"Ideas Too Dangerous to Say Out Loud" # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Ideas Too Dangerous to Say Out Loud" # site tagline that appears below site title in masthead
 name                     : "Woke Dissident"
 description              : "Ideas Too Dangerous to Say Out Loud"
 url                      : "https://wokedissident.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

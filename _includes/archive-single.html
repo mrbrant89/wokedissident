@@ -10,40 +10,31 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="related-posts-grid">
+<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="archive__item-teaser">
-      <a href="{{ post.url | relative_url }}">
-        <img src=
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.header.teaser %}
+      <div class="archive__item-teaser">
+        <a href="{{ post.url | relative_url }}"><img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
             "{{ teaser | relative_url }}"
           {% endif %}
-          alt="{{ post.title }}" width="575" height="216">
-      </a>
-    </div>
-    <h2 class="archive__item-title" itemprop="headline">
+          alt="{{ post.title }}" width="575" height="216"></a>
+      </div>
+      {% endif %}
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> 
-        <a href="{{ post.url | relative_url }}">
-          <i class="fab fa-link" aria-hidden="true" title="permalink"></i>
-          <span class="sr-only">Permalink</span>
-        </a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}">{{ title }}</a>
       {% endif %}
     </h2>
     {% if post.read_time %}
-      <p class="page__meta">
-        <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
-      </p>
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify | strip_html | truncatewords:50 }}
-        [&nbsp;<a href="{{ post.url | relative_url }}">Read&nbsp;More...</a>&nbsp;]
-      </p>
-    {% endif %}
+    <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncatewords:50 }}[&nbsp;<a href="{{ post.url | relative_url }}">Read&nbsp;More...</a>&nbsp;]</p>{% endif %}
   </article>
 </div>
