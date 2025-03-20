@@ -64,3 +64,19 @@ search: false
       grid-template-columns: repeat(1, 1fr);
   }
 }
+
+/* Fix for initial-content floating left */
+.layout--default .initial-content {
+  max-width: 1080px; /* Adjust as needed */
+  margin: 2em auto; /* Center the content */
+  padding: 1em; /* Add some padding */
+  clear: both; /* Clear any floats */
+}
+
+/* Optional: Adjust for smaller screens */
+@media (max-width: 768px) {
+  .layout--default .initial-content {
+      max-width: 95%; /* Make it responsive */
+      padding: 0.5em; /* Reduce padding on smaller screens */
+  }
+}
