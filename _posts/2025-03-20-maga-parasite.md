@@ -44,7 +44,9 @@ That’s why they keep following us. They **can’t** create, they **can’t** g
 
 ## My Own Little MAGA Parasite: Angie
 
-I had my own personal MAGA troll on Instagram. Let’s call her [Angie](https://www.instagram.com/angi3xoxo/). A self-proclaimed Christian, active in her [church](https://awakenchurch.com/service-locations/eastlake-campus/), even part of the **prayer team**. But instead of embodying love and kindness, she spent her free time **being a total asshole to me.**
+I had my own personal MAGA troll on Instagram. Let’s call her [Angie](https://www.instagram.com/angi3xoxo/). Well, actually, her name is Angelica, but she goes by [Angie](https://www.instagram.com/angi3xoxo/)—an ironic choice for someone so eager to talk down about immigrants (note that her parents immigrated from Guatemala) while hiding behind an anglicized name.
+
+A self-proclaimed Christian, active in her church, even part of the prayer team. But instead of embodying love and kindness, she spends her free time being a total asshole to strangers on the internet.
 
 Does she even read the teachings of Jesus? Or is she too busy celebrating cruelty?
 
