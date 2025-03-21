@@ -35,7 +35,21 @@
   {%- assign og_type = "website" -%}
 {%- endif -%}
 
-<title>{% if page.title %}{{ seo_title }}{% if site.subtitle %} {{ title_separator }} {{ site.subtitle }}{% endif %}{% if paginator %}{% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}{% else %}{{ site.title }}{% if site.subtitle %} {{ title_separator }} {{ site.subtitle }}{% endif %}{% if paginator %}{% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}{% endif %}</title>
+<title>
+  {% if page.title %}
+    {{ seo_title | replace: '&#124; ', '&#124;' | replace: ' &#124;', '&#124;' }}
+    {% if site.subtitle %} {{ title_separator }} {{ site.subtitle }} {% endif %}
+    {% if paginator %}
+      {% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }} {% endunless %}
+    {% endif %}
+  {% else %}
+    {{ site.title }}
+    {% if site.subtitle %} {{ title_separator }} {{ site.subtitle }} {% endif %}
+    {% if paginator %}
+      {% unless paginator.page == 1 %} {{ title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }} {% endunless %}
+    {% endif %}
+  {% endif %}
+</title>
 <meta name="description" content="{{ seo_description }}">
 
 {% if author.name %}
