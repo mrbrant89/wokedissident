@@ -80,3 +80,9 @@ search: false
       padding: 0.5em; /* Reduce padding on smaller screens */
   }
 }
+
+/* Selects the first element child of .page__content, and removes top margin/padding regardless of the element type */
+.page__content > :first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
