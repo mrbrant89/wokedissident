@@ -13,8 +13,12 @@ tags:
   - Drag Queens
   - Morality
 excerpt: "The same Republicans who worship Trump and Elon Musk want to control your morality while ignoring their own chaos."
-image: /assets/images/2025/03/republican-sex-hypocrisy-2048px.jpg
-teaser: /assets/images/2025/03/republican-sex-hypocrisy-575px.jpg
+header:
+  image: /assets/images/2025/03/republican-sex-hypocrisy-2048px.jpg       # Twitter (use 'overlay_image')
+  overlay_image: /assets/images/2025/03/republican-sex-hypocrisy-2048px.jpg  # Article header at 2048x768
+  overlay_filter: rgba(0, 0, 0, 0.2)
+  teaser: /assets/images/2025/03/republican-sex-hypocrisy-575px.jpg   # Shrink image to 575x216
+  og_image: /assets/images/2025/03/republican-sex-hypocrisy-2048px.jpg
 caption: "[AI Generated](https://openai.com)"
 toc: true
 published: true

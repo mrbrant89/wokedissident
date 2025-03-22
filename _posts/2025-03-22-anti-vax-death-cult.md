@@ -65,9 +65,11 @@ She says she "researched it." That means she watched a Rumble video hosted by a 
 
 The more isolated she got from actual science, the more embedded she became in the world of **Instagram quackery, pseudoscience podcasts, and MLM grifts.**
 
-My cousin lost friends. Family stopped visiting. But she gained "her truth."
+My cousin lost friends - including both his high school best friend and the best man at his wedding. He was estranged from his parents (his Mom is a nurse) for a decade over it. But she gained "her truth." 
 
-And her downline.
+And her downline. 
+
+All while spending - and probably *losing* my cousin's hard earned money - at least if she's like 99% of MLM people.
 
 ## RFK Jr: Worms, Heroin, and the End of Public Health
 
@@ -133,7 +135,6 @@ Stop the grift. Stop the rot. **Vaccinate your damn kids.**
 ---
 
 ## Sources
-
 [13] *The Anti-Vaccine Movement in the US: A Historical Analysis* – https://pmc.ncbi.nlm.nih.gov/articles/PMC9383768/  
 [14] *NBC News: How a Texas child's measles death was weaponized by the anti-vaccine movement* – https://www.nbcnews.com/health/health-news/anti-vaccine-influencers-weaponized-measles-death-texas-rcna196900  
 [15] *USA Today: Parents of child who died of measles still don't support MMR vaccine* – https://www.usatoday.com/story/life/health-wellness/2025/03/21/measles-death-parents-child-vaccine/82588858007/  
@@ -143,4 +144,3 @@ Stop the grift. Stop the rot. **Vaccinate your damn kids.**
 [19] *People Magazine: Pediatrician Responds to Parents Whose Unvaccinated Child Died* – https://people.com/measles-child-death-texas-parents-pediatrician-reponds-11701359  
 [20] *Texas Tribune: Parents stand by decision to not vaccinate* – https://www.texastribune.org/2025/03/20/texas-measles-family-gaines-county-death/  
 [21] *New York Times: Unvaccinated Child Dies of Measles in Texas Outbreak* – https://www.nytimes.com/2025/02/26/us/texas-measles-outbreak-death.html
-

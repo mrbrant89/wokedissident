@@ -2,7 +2,7 @@
 title: "Unilever’s Dumbest Move Yet: Firing Ben & Jerry’s CEO"
 description: "Unilever just axed the CEO of its most politically powerful—and profitable—ice cream brand. Here’s why that’s monumentally stupid."
 permalink: /2025/unilever-ben-jerrys-ceo-firing
-date: 2025-03-22T08:00:00Z
+date: 2025-03-22T07:46:00Z
 classes: wide
 categories:
   - Business
