@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -27,7 +27,7 @@ url                      : "https://wokedissident.com" # the base hostname & pro
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mrbrant89/wokedissident" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/lone-figure-500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo-black.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo-white.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -151,9 +151,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Privacy Policy"
+      icon: "fas fa-lock"
+      url: "/terms"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
