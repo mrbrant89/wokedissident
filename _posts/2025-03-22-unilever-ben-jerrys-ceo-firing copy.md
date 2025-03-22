@@ -59,7 +59,7 @@ And guess what? Some of those “freedom fighters” are back behind bars:
 
 ## "They Were Political Prisoners"
 
-Now let’s address some of the greatest hits from MAGA Twitter:
+Now let’s address some of the greatest hits from MAGA social media:
 
 > “They didn’t get due process! The 4th, 5th, 6th, 14th Amendments!”
 
