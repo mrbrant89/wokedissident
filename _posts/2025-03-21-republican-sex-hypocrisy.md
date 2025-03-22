@@ -17,7 +17,7 @@ header:
   image: /assets/images/2025/03/republican-sex-hypocrisy-2048px.jpg
   overlay_image: /assets/images/2025/03/republican-sex-hypocrisy-2048px.jpg
   overlay_filter: rgba(0, 0, 0, 0.2)
-  teaser: /assets/images/gop-sex-hypocrisy-575px.jpg
+  teaser: /assets/images/2025/03/republican-sex-hypocrisy-575px.jpg
   og_image: /assets/images/2025/03/republican-sex-hypocrisy-2048px.jpg
   caption: "AI Generated"
 toc: true
