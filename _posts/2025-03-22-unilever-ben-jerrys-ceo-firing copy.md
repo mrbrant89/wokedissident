@@ -61,7 +61,7 @@ And guess what? Some of those “freedom fighters” are back behind bars:
 
 Now let’s address some of the greatest hits from MAGA Twitter:
 
-> “They didn’t get due process! The 4th, 5th, 6th, 14th Amendments!”  — Bruno Souza
+> “They didn’t get due process! The 4th, 5th, 6th, 14th Amendments!”
 
 Let’s be clear: They *got trials*. They had lawyers. They had *judges* appointed by Trump. Some *pleaded guilty*. If the system was rigged, it was rigged **in their favor**.
 
