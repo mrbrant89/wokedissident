@@ -30,7 +30,7 @@ He lied about it.
 
 He falsified business records.
 
-He's facing **34 felony charges** over it.
+He was convicted of **34 felony charges** over it.
 
 He also bragged about grabbing women by the pussy, was accused of **rape** by multiple women, and has more sexual assault allegations than most prison inmates doing life.
 
@@ -74,15 +74,33 @@ They scream about “groomers” while ignoring the *actual grooming* happening 
 
 > Statistically, your kid is safer at a drag show than at Bible camp.
 
-## Meet the Other Morality Mascots: Gaetz & Jordan
+## Meet the Other Morality Mascots: Gaetz, Jordan, and Cawthorn
 
-Let’s add some more characters to this morality play:
+Welcome to the GOP’s Holy Trinity of Hypocrisy.
 
-**Matt Gaetz**: Under federal investigation for allegedly paying for sex with a minor and trafficking her across state lines. And while the DOJ declined to press charges, the evidence was enough to make most people change their Instagram passwords.
+**Matt Gaetz**: Florida frat boy turned full-time sex scandal. Under federal investigation for allegedly paying a 17-year-old for sex and trafficking her across state lines. The DOJ bailed, but the **House Ethics Committee didn’t flinch**—confirming he paid women for sex, used drugs with them, and reimbursed it all through shady cash apps and sketchy travel claims[^gaetz-ethics]. He Venmo’d his way into a federal ethics violation and then ran for the exit just before the receipts hit the floor.
 
-**Jim Jordan**: Accused by multiple former athletes at Ohio State of ignoring sexual abuse while he was a coach. His defense? “I didn’t hear about it.” Somehow, the guy who can smell a Marxist in a school board meeting couldn’t hear kids begging for help down the hallway.
+> Gaetz didn’t “retire.” He noped out of Congress like a cockroach caught under UV light. If your defense is “Well, she was *technically* 17.9,” you’re not a misunderstood man—you’re a walking subpoena.
 
-And yet both are stars in the Republican Party.
+**Jim Jordan**: Ohio State's favorite denial machine. Six former wrestlers say they told Jordan directly about serial sexual abuse by team doctor Richard Strauss. He “doesn’t recall” any of it[^osu-npr]. Amazing how the guy who can detect critical race theory in kindergarten is completely deaf when it’s a molester in the locker room.
+
+> Jim didn’t just ignore abuse—he practically wrote the manual. And now he’s lecturing drag queens about “grooming”? Please.
+
+**Madison Cawthorn**: The GOP’s professional pity magnet. Cawthorn built his brand on being a “hero in a chair” and proceeded to crash it straight into scandal.
+
+- Lied about getting into the Naval Academy
+- Busted for carrying loaded guns through airport security—**twice**
+- Drove with a revoked license—**three times**
+- Claimed D.C. elites invited him to cocaine-fueled orgies
+- Got filmed *naked*, *grinding* on his male staffer while screaming “I feel the passion, baby!”[^cawthorn-npr]
+
+And then had the audacity to call LGBTQ people “degenerates.”
+
+> Just because you lost your legs doesn’t mean you lost your shame, Madison.
+
+The GOP didn’t cut him loose for being reckless, lawless, or homophobic. They cut him loose for snitching on their coke-and-orgy parties[^cawthorn-wapo].
+
+> It’s not morality they care about—it’s discretion.
 
 ## The Epstein Elephant in the Room
 
@@ -131,17 +149,24 @@ Let Trump confess to a few more mistresses. Let Musk knock up a few more executi
 
 Because nothing says family values like a porn star payoff.
 
----
+## Sources
+- [Trump indicted on 34 felony counts for hush money scheme](https://www.nytimes.com/2023/04/04/nyregion/trump-arraignment-hush-money.html) — *New York Times*
+- [Trump found liable for sexual abuse in E. Jean Carroll case](https://www.npr.org/2023/05/09/1175193914/trump-verdict-e-jean-carroll) — *NPR*
+- [Elon Musk has 14 children, including secret twins and paternity lawsuits](https://www.vanityfair.com/style/story/all-elon-musk-children-and-mothers) — *Vanity Fair*
+- [Inside Elon Musk’s tangled family drama](https://www.today.com/parents/parents/elon-musk-kids-rcna19692) — *NBC News*
+- [SpaceX paid employee after Musk sexual misconduct claim](https://www.businessinsider.com/spacex-paid-employee-elon-musk-sexual-misconduct-allegation-2022-5) — *Business Insider*
+- [Matt Gaetz investigated for sex trafficking and misconduct](https://www.nytimes.com/2023/02/15/us/matt-gaetz-doj-sex-trafficking.html) — *New York Times*
+- [House Ethics Committee report confirms misconduct by Gaetz][^gaetz-ethics] — *BBC News*
+- [Jim Jordan accused of ignoring OSU sexual abuse](https://www.npr.org/2020/06/09/872387372/former-ohio-state-athletes-say-rep-jim-jordan-knew-about-abuse) — *NPR*
+- [Ohio State University abuse scandal timeline][^osu-wiki] — *Wikipedia*
+- [GOP moral panic over drag queens](https://www.theguardian.com/us-news/2023/feb/01/tennessee-drag-show-ban-lgbtq) — *The Guardian*
+- [Banned books list targets LGBTQ+ content](https://pen.org/report/banned-in-the-usa/) — *PEN America*
+- [Jeffrey Epstein and elite cover-ups](https://www.bbc.com/news/world-us-canada-49177272) — *BBC News*
+- [Madison Cawthorn’s scandals: guns, DUIs, and grind sessions](https://www.npr.org/2022/04/29/1095374530/madison-cawthorn-scandals) — *NPR*
+- [Cawthorn's full controversy breakdown](https://www.washingtonpost.com/politics/2022/05/02/madison-cawthorn-controversies-explained) — *Washington Post*
+- [Matt Gaetz resigns before ethics report drops](https://www.politico.com/news/2024/11/13/matt-gaetz-resigns-congress-00189488) — *Politico*
 
-**Sources:**
-- [Trump indicted on 34 felony counts in hush money case](https://www.nytimes.com/2023/04/04/nyregion/trump-arraignment-hush-money.html)
-- [Trump found liable for sexual abuse in E. Jean Carroll case](https://www.npr.org/2023/05/09/1175193914/trump-verdict-e-jean-carroll)
-- [Musk has 14 children, including secret births](https://www.vanityfair.com/style/story/all-elon-musk-children-and-mothers)
-- [Musk's child count and family drama](https://www.today.com/parents/parents/elon-musk-kids-rcna19692)
-- [Sexual misconduct claims against Musk](https://www.businessinsider.com/spacex-paid-employee-elon-musk-sexual-misconduct-allegation-2022-5)
-- [Matt Gaetz DOJ investigation](https://www.nytimes.com/2023/02/15/us/matt-gaetz-doj-sex-trafficking.html)
-- [Jim Jordan OSU scandal explained](https://www.npr.org/2020/06/09/872387372/former-ohio-state-athletes-say-rep-jim-jordan-knew-about-abuse)
-- [GOP moral panic over drag queens](https://www.theguardian.com/us-news/2023/feb/01/tennessee-drag-show-ban-lgbtq)
-- [Banned books list disproportionately targets LGBTQ+ content](https://pen.org/report/banned-in-the-usa/)
-- [Jeffrey Epstein and elite cover-ups](https://www.bbc.com/news/world-us-canada-49177272)
-
+[^gaetz-ethics]: [What's in the House Ethics Report on Matt Gaetz](https://www.bbc.com/news/articles/c0mvpmnm9gno) — *BBC News*  
+[^osu-npr]: [Jim Jordan accused of ignoring OSU sexual abuse](https://www.npr.org/2020/06/09/872387372/former-ohio-state-athletes-say-rep-jim-jordan-knew-about-abuse) — *NPR*  
+[^cawthorn-npr]: [Madison Cawthorn’s scandals: guns, DUIs, and grind sessions](https://www.npr.org/2022/04/29/1095374530/madison-cawthorn-scandals) — *NPR*  
+[^cawthorn-wapo]: [Cawthorn's full controversy breakdown](https://www.washingtonpost.com/politics/2022/05/02/madison-cawthorn-controversies-explained) — *Washington Post*
