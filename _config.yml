@@ -122,10 +122,10 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://wokedissident.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://wokedissident.com"
+    - label: "BlueSky"
+      icon: "fab fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/wokedissident.bsky.social/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -139,9 +139,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "BlueSky"
+      icon: "fab fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/wokedissident.bsky.social/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
