@@ -86,3 +86,46 @@ search: false
   margin-top: 0;
   padding-top: 0;
 }
+
+/* Bluesky Social Share Button */
+// Base color for Bluesky
+$bluesky-color: #1184fe;
+$bluesky-hover: darken($bluesky-color, 12%);
+
+// Generic button styles
+.btn--bluesky {
+  background-color: $bluesky-color;
+  color: #fff;
+
+  &:hover,
+  &:focus {
+    background-color: $bluesky-hover;
+    color: #fff;
+  }
+
+  &:visited {
+    color: #fff;
+  }
+}
+
+// Optional: Skin overrides if your theme supports skin-specific overrides
+// Minimal Mistakes uses body classes like .skin-dark, .skin-light, etc.
+// This is how you could override for better contrast or custom tweaks:
+
+.skin-dark .btn--bluesky {
+  background-color: lighten($bluesky-color, 8%);
+  color: #fff;
+
+  &:hover {
+    background-color: lighten($bluesky-hover, 8%);
+  }
+}
+
+.skin-light .btn--bluesky {
+  background-color: $bluesky-color;
+  color: #fff;
+
+  &:hover {
+    background-color: $bluesky-hover;
+  }
+}
