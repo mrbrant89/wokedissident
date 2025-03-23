@@ -64,7 +64,7 @@ We imported $439 billion in goods from China last year <a href="https://www.bea.
 
 And China? It’s not waiting around. It’s building ports in Africa, trains across Asia, and 6G networks in Europe. While we’re busy jacking up soy prices, they’re locking down the global future.
 
-As Jimmy Carter put it: “China hasn’t wasted a penny on war... that’s why it surpasses us in almost every area.” The man’s 100 years old and still making more sense than every trade advisor in Washington <a href="http://us.china-embassy.gov.cn/eng/zggs/202502/t20250220_11559124.htm">[3]</a>.
+As Jimmy Carter put it: “China hasn’t wasted a penny on war... that’s why it surpasses us in almost every area.” The was 100 years old and still made more sense than every trade advisor in Washington <a href="http://us.china-embassy.gov.cn/eng/zggs/202502/t20250220_11559124.htm">[3]</a>.
 
 ## We Gave Up the Empire—Without a Fight
 
@@ -82,7 +82,7 @@ Meanwhile, BRICS expands. The petrodollar fades. The Global South? Cozying up to
 
 ## Kremlin Assets in Plain Sight
 
-If there was any doubt that Trump, Elon Musk, and Tulsi Gabbard were doing Putin’s bidding, it’s gone now. We’ve got a former president calling NATO obsolete, a billionaire throttling Ukrainian internet access <a href="https://www.cnn.com/2023/09/07/politics/elon-musk-starlink-ukraine-russia/index.html">[4]</a>, and a pundit-turned-politician echoing Moscow’s PR lines about Ukraine.
+If there was any doubt that Trump, Elon Musk, and Tulsi Gabbard were doing Putin’s bidding, it’s gone now. We’ve got a former president calling NATO obsolete, a billionaire throttling Ukrainian internet access <a href="https://www.reuters.com/business/us-could-cut-ukraines-access-starlink-internet-services-over-minerals-say-2025-02-22/">[4]</a>, and a pundit-turned-politician echoing Moscow’s PR lines about Ukraine.
 
 At this point, the evidence isn’t subtle—it’s screaming. We didn’t just let the fox in the henhouse. We gave it a seat at the table, handed it a mic, and let it write our foreign policy.
 
@@ -115,4 +115,4 @@ Wake up. Before we tariff ourselves into irrelevance.
 
 [3] <a href="http://us.china-embassy.gov.cn/eng/zggs/202502/t20250220_11559124.htm">Jimmy Carter’s quote on China and war – Chinese Embassy USA</a>
 
-[4] <a href="https://www.cnn.com/2023/09/07/politics/elon-musk-starlink-ukraine-russia/index.html">Elon Musk restricted Starlink access to thwart Ukrainian drone strike – CNN</a>
+[4] <a href="https://www.reuters.com/business/us-could-cut-ukraines-access-starlink-internet-services-over-minerals-say-2025-02-22/">Elon Musk restricted Starlink access to thwart Ukrainian drone strike – CNN</a>
