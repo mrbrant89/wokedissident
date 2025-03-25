@@ -56,8 +56,6 @@ You don’t flatten refugee camps with U.S.-made bombs and call it democracy.
 
 ## The Trump-Palestine Riviera
 
-$1
-
 And to top it off? The video promoting this fever dream includes a surreal, AI-generated simulation of what Gaza could become—if we just erase all the people. Palm trees, glowing beaches, towers of glass and gold. And playing in the background? A ridiculous jingle custom-made for Trump, as if Disney were hired to market colonialism.
 
 The lyrics sound like something cooked up by ChatGPT on Ambien: 
