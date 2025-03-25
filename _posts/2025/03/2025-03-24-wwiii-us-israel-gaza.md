@@ -124,7 +124,7 @@ And treating protesters at home like traitors.
 
 This isn’t a slippery slope. It’s a vertical drop.
 
-## Conclusion: No One Gets to Plead Ignorance
+## It's Too Late to Plead Ignorance
 
 You don’t get to say, “I didn’t know.” Not anymore.
 
