@@ -1,5 +1,5 @@
 ---
-title: "Deported and Disappeared: Franco's Nightmare Is Just the Beginning"
+title: "Deported and Disappeared: Caraballo's Nightmare Is Just the Beginning"
 description: "A gay Venezuelan man with no criminal record was deported to a mega-prison in El Salvador. This isn’t law enforcement. It’s state-sanctioned cruelty. And it’s coming for citizens next."
 permalink: /2025/deportations-el-salvador-franco
 date: 2025-03-25T10:26:00Z
