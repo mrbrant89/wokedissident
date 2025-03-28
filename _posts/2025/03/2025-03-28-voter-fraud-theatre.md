@@ -48,7 +48,7 @@ But if Trump and his loyal echo chamber admitted that, their whole narrative col
 
 This isn’t about stopping fraud. It’s about two things:
 
-1. **Creating an excuse.** If Trump had lost in 2024 (for the 2nd time), he’d already have laid the groundwork: *“See? I warned you about all those illegal votes! Voter fraud!”* But since he won it was all perfect legitimate (funny how that works).
+1. **Creating an excuse.** If Trump had lost in 2024 (for the 2nd time), he’d already have laid the groundwork: *“See? I warned you about all those illegal votes! Voter fraud!”* But since he won it was all perfectly legitimate (funny how that works).
 2. **Suppressing the vote.** Citizenship documentation disproportionately burdens the elderly, the poor, and minorities—i.e., **Democratic voters**.
 
 Let’s not pretend this is subtle. This is **strategic disenfranchisement wrapped in a flag**.
