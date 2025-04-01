@@ -23,9 +23,9 @@ toc: true
 published: true
 ---
 
-## The Goose Was Right
-
 {% include figure popup=true image_path="assets/images/2025/04/doge-goose-meme.jpeg" alt="Meme of a Goose chasing a guy saying 'If DOGE is saving the government so much money, then why are Republicans raising the debt ceiling by $4 Trillion?'" caption="Goose Meme [Source: The Tyrannitarian Party](https://web.facebook.com/TheTyrannitarianParty)" %}
+
+## The Goose Was Right
 
 You’ve seen the meme. The goose is screaming, and for once, it’s not just noise—it’s prophecy:
 
