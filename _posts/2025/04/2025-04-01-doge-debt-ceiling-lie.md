@@ -33,7 +33,7 @@ You’ve seen the meme. The goose is screaming, and for once, it’s not just no
 
 Exactly.
 
-The GOP launched DOGE—Debt and Oversight for Government Efficiency—as a political weapon. A taxpayer-funded witch hunt to prove their fantasy that the federal government is rotting from the inside out. They were supposed to uncover billions in fraudulent spending, wasteful programs, and liberal corruption.
+The GOP launched DOGE—Department of Government Efficiency—as a political weapon. A taxpayer-funded witch hunt to prove their fantasy that the federal government is rotting from the inside out. They were supposed to uncover billions in fraudulent spending, wasteful programs, and liberal corruption.
 
 Instead, they found… absolutely nothing. And now, with no fraud to cut and no savings to show, they’re raising the debt ceiling by $4 trillion.
 
