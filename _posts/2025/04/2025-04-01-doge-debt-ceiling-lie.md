@@ -23,7 +23,13 @@ toc: true
 published: true
 ---
 
+I was scrolling through Threads and I saw the following meme. And I was like...damn that really sums it up.
+
 {% include figure popup=true image_path="assets/images/2025/04/doge-goose-meme.jpeg" alt="Meme of a Goose chasing a guy saying 'If DOGE is saving the government so much money, then why are Republicans raising the debt ceiling by $4 Trillion?'" caption="Goose Meme [Source: The Tyrannitarian Party](https://web.facebook.com/TheTyrannitarianParty)" %}
+
+And next I saw the following from [Brian Tyler Cohen](https://www.threads.net/@briantylercohen/) *AKA Daddy* which shows that MAGA is *almost* starting to get it. Almost. But they aren't there yet.
+
+{% include figure popup=true image_path="assets/images/2025/04/btc-tweet.jpg" alt="Screenshot of a Threads conversation between John Rich and Brian Tyler Cohen that says 'How can @DOGE find 10's of billions in fraud, but no one has been arrested for committing fraud? If I defrauded anyone I would immediately be charged and detained' to which Brian replies 'You're almost there'" caption="Threads Screenshot [Source: Bryan Tyler Cohen on Threads](https://www.threads.net/@briantylercohen/post/DH2nhifxXPb/media)" %}
 
 ## The Goose Was Right
 
