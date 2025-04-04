@@ -87,11 +87,13 @@ Here’s how Trump stacks up against other presidents on **hard economic indicat
 | Bush Jr.  | 2.2%       | 5.3%         | 2.8%      | -3.5%   | Flat        | ↑ to 84.2%     | -1.3M      |
 | Obama     | 1.7%       | 7.4%         | 1.4%      | 15.6%   | ↑ 5.3%      | ↑ to 102.7%    | +1.04M     |
 | Trump     | **1.4%**   | 5.0%         | 1.4%      | 16.0%   | ↑ 4.9%      | ↑ to **126%**  | **-2.94M** |
-| Biden     | **3.2%**   | **3.4%**     | 3.0%      | **+55%**| ↑ 6.0%      | ~122%          | +?         |
+| Biden     | **3.2%**   | **3.4%**     | 3.0%      | **+55%**| ↑ 6.0%      | ~122%          | +0.5M      |
 
-Trump ranks dead last on GDP growth and manufacturing jobs.  
+Trump 1.0 ranks dead last on GDP growth and manufacturing jobs. 
 
 He wins on **debt explosion** and leaving future generations a flaming dumpster of IOUs.
+
+And *Sleepy Joe* - you know, the last guy, where we could actually sleep at night - had *positive* manufacturing job growth, despite having to help us recover from a global pandemic (and Trump 1.0).
 
 > **Pro tip:** If you add $8 trillion in debt and still lose jobs?  
 > You didn’t “run the economy like a business.”  
