@@ -317,6 +317,8 @@ You wanted chaos?
 
 **Welcome to the second course.**
 
+{% include video id="31NJs1dbo2E" provider="youtube" %}
+
 ## Sources  
 <a name="sources"></a>  
 
