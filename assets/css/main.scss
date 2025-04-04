@@ -3,7 +3,6 @@ search: false
 ---
 
 @charset "utf-8";
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -130,6 +129,10 @@ $bluesky-hover: darken($bluesky-color, 12%);
   }
 }
 
+/*
+    Superscript Formatting
+*/
+
 /* Kill underline on links that ONLY contain a sup */
 a:has(> sup) {
   text-decoration: none !important;
@@ -141,4 +144,15 @@ a > sup {
   vertical-align: super;
   line-height: 1;
   color: inherit;
+}
+
+/* Formatting for sortable tables */
+th.ascending::after {
+  content: " ⬆";
+}
+th.descending::after {
+  content: " ⬇";
+}
+th {
+  user-select: none;
 }
