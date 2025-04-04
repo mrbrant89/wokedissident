@@ -264,7 +264,7 @@ Meanwhile:
 - Clinton: **+2.4M**  
 - Obama: **+1.04M**  
 - Reagan: **+1.06M**  
-- Biden? Still adding (despite the inflation war and supply shocks)
+- Biden: **+0.5M** (despite a global pandemic and the disaster that was Trump 1.0)
 
 And remember those tariffs Trump said would “save American steel”?  
 
