@@ -56,13 +56,15 @@ Trump didn't “fix” the economy. He **broke it, blamed everyone else**, and n
 
 Even *The Economist*—a right-leaning, pro-capitalist publication beloved by hedge fund managers and Oxford grads—sounded the alarm.  
 
-Their new cover shows a burning globe under Trump’s economic return. The title?  
+Their new cover shows Trump taking a saw to a map of the US. The title?  
 **“Ruin-ation Day.”**
 
 This isn’t MSNBC. This isn’t Mother Jones. This is *The Economist*.  
+
 And even *they’re* saying “run.”
 
 Meanwhile, Trump is bragging about “liberating” America’s economy.  
+
 The stock market tanked. The yuan is spiking. The world’s second-largest economy is retaliating.  
 
 This isn’t liberation. It’s lunacy with a branding team.
