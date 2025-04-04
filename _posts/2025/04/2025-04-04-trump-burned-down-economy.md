@@ -93,7 +93,7 @@ Trump 1.0 ranks dead last on GDP growth and manufacturing jobs.
 
 He wins on **debt explosion** and leaving future generations a flaming dumpster of IOUs.
 
-And *Sleepy Joe* - you know, the last guy, where we could actually sleep at night - had *positive* manufacturing job growth, despite having to help us recover from a global pandemic (and Trump 1.0).
+And *Sleepy Joe* - you know, the last guy, where we could actually sleep at night - had *positive* manufacturing job growth, despite recovering from a global pandemic (and Trump 1.0).
 
 > **Pro tip:** If you add $8 trillion in debt and still lose jobs?  
 > You didn’t “run the economy like a business.”  
@@ -135,7 +135,6 @@ The fallout:
 
 - **Wall Street lost trillions** overnight  
 - U.S. exporters went into full panic  
-- Trump’s allies were *not* warned in advance  
 - Economists? Confused. Angry. Laughing. Sometimes all three.
 
 Rolling Stone summed it up like this:  
@@ -231,7 +230,7 @@ Here’s what happened under the guy Fox News calls a “senile socialist”:
 
 - **Unemployment fell to 3.4%**, the lowest in **50 years** [6](https://www.commerce.gov/news/blog/2023/02/news-unemployment-its-lowest-level-54-years)  
 - **Real wages rose 6%** between Q4 2019 and Q4 2023—even after adjusting for inflation [7](https://cepr.net/publications/bidens-record-on-income-growth/)  
-- **Stock market soared 55%** since Biden took office [8](https://www.morningstar.com/news/marketwatch/20250119180/a-final-look-at-how-the-us-stock-market-performed-under-joe-biden)  
+- **Stock market soared 55%** during his term [8](https://www.morningstar.com/news/marketwatch/20250119180/a-final-look-at-how-the-us-stock-market-performed-under-joe-biden)  
 - **GDP growth?** Stronger than Trump’s pre-COVID average
 
 No one’s saying Biden’s perfect.  
@@ -255,8 +254,7 @@ Instead, he threw a grenade into the sector and walked away.
 Let’s check the scoreboard:
 
 - **Net change in manufacturing jobs under Trump:**  
-  **–2.94 million**  
-  [9](https://www.nasdaq.com/articles/lbj-biden-how-economy-performed-under-each-president)
+  **–2.94 million** [9](https://www.nasdaq.com/articles/lbj-biden-how-economy-performed-under-each-president)
 
 That’s not just bad. That’s catastrophic.  
 

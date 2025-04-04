@@ -129,3 +129,16 @@ $bluesky-hover: darken($bluesky-color, 12%);
     background-color: $bluesky-hover;
   }
 }
+
+/* Kill underline on links that ONLY contain a sup */
+a:has(> sup) {
+  text-decoration: none !important;
+}
+
+/* Optional: also make the sup look clean and tight */
+a > sup {
+  font-size: 0.8em;
+  vertical-align: super;
+  line-height: 1;
+  color: inherit;
+}
