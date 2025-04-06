@@ -156,3 +156,17 @@ th.descending::after {
 th {
   user-select: none;
 }
+
+/*
+    Selected Text Color
+*/
+
+::selection {
+  background-color: rgba(255, 0, 0, 0.2); /* Light red background */
+  color: white; /* White text */
+}
+
+::-moz-selection {
+  background-color: rgba(255, 0, 0, 0.2); /* Light red background */
+  color: white; /* White text */
+}
