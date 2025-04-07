@@ -468,7 +468,7 @@ Some try to claim Canada has medical bankruptcies too. Sure—if you cherry-pick
 
 ### Who Gets Left Behind?
 
-- 27 million The U.S.ns had no health insurance in 2023 [5](https://www.census.gov/library/stories/2023/09/2022-health-insurance-coverage.html)
+- 27 million Americans had no health insurance in 2023 [5](https://www.census.gov/library/stories/2023/09/2022-health-insurance-coverage.html)
 - Millions more are **underinsured**, meaning they have insurance that’s effectively useless when it matters
 
 In contrast:
@@ -644,7 +644,7 @@ But even in its struggling state, **nobody in the UK goes bankrupt** because the
 
 The NHS is a political football. But the principle—**free, universal access to care**—still polls as one of the most cherished British institutions.
 
-> The U.S.ns mocking the NHS is like a guy living in a cardboard box dunking on someone with leaky plumbing.
+> Americans mocking the NHS is like a guy living in a cardboard box dunking on someone with leaky plumbing.
 
 ### “Mexico? Really?”
 
@@ -712,7 +712,7 @@ Remember the **“death panels”** lie from 2009? That was cooked up by lobbyis
 
 ### Employer-Based Insurance: The Golden Cage
 
-During WWII, wage controls led companies to offer health insurance as a perk. It stuck. Now, nearly half of all The U.S.ns get coverage through their jobs [2](https://www.kff.org/other/state-indicator/total-population/).
+During WWII, wage controls led companies to offer health insurance as a perk. It stuck. Now, nearly half of all Americans get coverage through their jobs [2](https://www.kff.org/other/state-indicator/total-population/).
 
 Problem is:
 
