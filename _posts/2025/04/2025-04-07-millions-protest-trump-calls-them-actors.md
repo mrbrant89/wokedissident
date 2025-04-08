@@ -231,7 +231,7 @@ What they **didn’t do** was dig. They glossed over the scale. They ignored the
 
 And they definitely didn’t dwell on the fact that the **Democratic Party wasn’t behind this**. This wasn’t Biden’s army. It was ordinary people, pissed off and organizing without permission.
 
-Meanwhile, **independent outlets** like *World Socialist Web Site* and *The Habesha* reported what corporate media wouldn’t: that this was **multi-racial**, **working-class**, and **anti-authoritarian**, not some DNC photo op. Local papers highlighted *actual people* with real stakes—disabled kids, canceled research, veterans sick of the power grab.
+Meanwhile, **independent outlets** like [*World Socialist Web Site*](https://www.wsws.org/en/articles/2025/04/07/fpwl-a07.html) and [*The Habesha*](https://thehabesha.com/hands-off-protests-across-the-u-s-and-worldwide/) reported what corporate media wouldn’t: that this was **multi-racial**, **working-class**, and **anti-authoritarian**, not some DNC photo op. Local papers highlighted *actual people* with real stakes—disabled kids, canceled research, veterans sick of the power grab.
 
 This wasn’t a blue vs. red story. It was bottom vs. top. And legacy media? They’re still allergic to that framing.
 
