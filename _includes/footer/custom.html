@@ -3,30 +3,35 @@
   document.addEventListener('DOMContentLoaded', function () {
     console.log("✅ Custom footer script loaded");
 
-    // Handle all <a> tags
+    // Global: Handle all <a> tags
     document.querySelectorAll('a').forEach(link => {
       const hostname = link.hostname;
-      const href = link.getAttribute('href') || '';
-      const text = link.textContent.trim().replace(/\s+/g, '');
 
       // Open external links in new tab
       if (hostname && hostname !== window.location.hostname) {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
       }
-
-      // Superscript if link text is just a number, e.g. [1]
-      if (/^\d{1,3}$/.test(text)) {
-        link.innerHTML = `<sup>${text}</sup>`;
-      }
-
-      const bracketed = text.match(/^\[(\d{1,3})\]$/);
-      if (bracketed) {
-        link.innerHTML = `<sup>${bracketed[1]}</sup>`;
-      }
     });
 
-    // Make all tables sortable by clicking <th> headers
+    // Local: Only within .page__content – superscript link text like [1]
+    const content = document.querySelector('.page__content');
+    if (content) {
+      content.querySelectorAll('a').forEach(link => {
+        const text = link.textContent.trim().replace(/\s+/g, '');
+
+        if (/^\d{1,3}$/.test(text)) {
+          link.innerHTML = `<sup>${text}</sup>`;
+        }
+
+        const bracketed = text.match(/^\[(\d{1,3})\]$/);
+        if (bracketed) {
+          link.innerHTML = `<sup>${bracketed[1]}</sup>`;
+        }
+      });
+    }
+
+    // Global: Make all tables sortable by clicking <th> headers
     document.querySelectorAll("table").forEach(function (table) {
       const thead = table.querySelector("thead");
       if (!thead) return;
