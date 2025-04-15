@@ -33,6 +33,7 @@ It’s not some tinfoil rant anymore. It’s April 2025, and the coup isn’t br
 Sound dramatic? It should. Because this isn’t about "chaos at the border." It’s about installing a permanent authoritarian regime under the illusion of law and order.
 
 > This is how it happens. Not in secret. Not in shadows.  
+> 
 > But on TV. In press conferences. Wrapped in the flag.
 
 Authoritarians don’t sneak in. They kick the front door down—and dare you to say no.
