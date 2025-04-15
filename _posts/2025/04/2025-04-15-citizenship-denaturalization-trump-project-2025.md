@@ -721,12 +721,22 @@ Because once the government decides who counts as American...
 [1] <a href="https://www.justice.gov/opa/pr/justice-department-files-denaturalization-complaint-against-terrorism-conviction">Justice Department Denaturalization Complaint – DOJ</a>  
 [2] <a href="https://www.aclu.org/news/immigrants-rights/the-governments-secret-program-to-denaturalize-americans">The Government’s Secret Program to Denaturalize Americans – ACLU</a>  
 [3] <a href="https://www.law.cornell.edu/supct/pdf/16-309_new_8n59.pdf">Maslenjak v. United States – Supreme Court Opinion</a>  
-[4] <a href="https://www.theguardian.com/us-news/2025/apr/01/its-a-tradition-outrage-in-venezuela-as-us-deports-makeup-artist-for-religious-tattoos">‘He is not a gang member’: outrage as US deports makeup artist – The Guardian</a>  
+[4] <a href="https://www.theguardian.com/us-news/2025/apr/01/its-a-tradition-outrage-in-venezuela-as-us-deports-makeup-artist-for-religious-tattoos">‘He is not a gang member’: Outrage as US deports makeup artist – The Guardian</a>  
 [5] <a href="https://www.nbcnews.com/news/latino/family-fears-safety-venezuelan-makeup-artist-deported-salvadoran-megap-rcna200078">Family fears for safety of Venezuelan makeup artist deported – NBC News</a>  
-[6] <a href="https://www.project2025.org/">Project 2025 Playbook – Heritage Foundation</a>  
-[7] <a href="https://trac.syr.edu/immigration/reports/623/">TRAC Immigration: ICE Removals and Detention Trends</a>  
-[8] <a href="https://www.cbo.gov/system/files/2021-07/57061-immigration.pdf">The Cost of Immigration Enforcement – CBO</a>  
-[9] <a href="https://www.cato.org/publications/commentary/mass-deportation-costly-unamerican">Mass Deportation: Costly and Un-American – Cato Institute</a>  
-[10] <a href="https://immigrantdefenders.org/">Immigrant Defenders Law Center – Romero Legal Team</a>  
-[11] <a href="https://lawandcrime.com/live-trials/live-trials-current/supreme-court-denies-trump-admins-request-to-block-return-of-deported-man/">SCOTUS Denies Trump Admin’s Appeal to Keep Deported Man in Prison – Law & Crime</a>  
-[12] <a href="https://www.hrw.org/news/2023/10/12/us-secretive-deportation-agreements-raise-human-rights-concerns">Secretive Deportation Agreements Raise Human Rights Alarms – Human Rights Watch</a>
+[6] <a href="https://www.aclu.org/project-2025-explained">Project 2025: Explained – ACLU</a>  
+[7] <a href="https://www.aljazeera.com/news/2025/4/15/did-us-courts-back-kilmar-abrego-garcias-el-salvador-deportation">Did US courts back Kilmar Abrego Garcia’s deportation? – Al Jazeera</a>  
+[8] <a href="https://www.cbsnews.com/news/el-salvador-nayib-bukele-meeting-trump-white-house/">El Salvador’s President Bukele: No return for wrongly deported man – CBS News</a>  
+[9] <a href="https://www.democracydocket.com/news-alerts/trump-abrego-garcia-maryland-return-el-salvador-prison/">Despite SCOTUS ruling, Trump refuses to return deportee – Democracy Docket</a>  
+[10] <a href="https://www.motherjones.com/politics/2025/04/trump-bukele-el-salvador-prison-return-men-kilmar-abrego-garcia-meeting-cecot/">Trump & Bukele celebrate wrongful deportation – Mother Jones</a>  
+[11] <a href="https://www.lawfirm4immigrants.com/can-trump-take-away-my-citizenship/">Can Trump take away my citizenship? – Herman Legal Group</a>  
+[12] <a href="https://biotech.law.lsu.edu/blaw/olc/ina340.htm">Revocation of Citizenship – LSU Law</a>  
+[13] <a href="https://immigrationforum.org/wp-content/uploads/2018/10/Fact-Sheet-on-Denaturalization.pdf">Fact Sheet: Denaturalization – National Immigration Forum</a>  
+[14] <a href="https://ebar.com/story.php?ch=news&sc=&id=330144">LGBTQ Agenda: Activists call for Romero’s return – Bay Area Reporter</a>  
+[15] <a href="https://www.cbsnews.com/news/venezuelan-migrants-deportations-el-salvador-prison-60-minutes/">60 Minutes: Venezuelan deportees in El Salvador prison – CBS News</a>  
+[16] <a href="https://www.immigrantdefenders.org/">Immigrant Defenders Law Center – Legal Advocacy for Romero</a>  
+[17] <a href="https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/DownloadDraft.aspx?key=hikTdv2CDPpQvm5wHUWth7NYnw09JZAHPnw1sG2n6ciYhkqWqh9MvtLSZXsTH89">UN Human Rights Committee Submission on Deportation Practices – OHCHR</a>  
+[18] <a href="https://www.hrw.org/news/2023/10/12/us-secretive-deportation-agreements-raise-human-rights-concerns">Secretive Deportation Agreements Raise Human Rights Alarms – Human Rights Watch</a>  
+[19] <a href="https://www.cato.org/publications/commentary/mass-deportation-costly-unamerican">Mass Deportation: Costly and Un-American – Cato Institute</a>  
+[20] <a href="https://www.cbo.gov/system/files/2021-07/57061-immigration.pdf">The Cost of Immigration Enforcement – Congressional Budget Office</a>  
+[21] <a href="https://www.nbcnews.com/news/latino/family-fears-safety-venezuelan-makeup-artist-deported-salvadoran-megap-rcna200078">NBC: Family fears for Venezuelan makeup artist deported – NBC News</a>  
+[22] <a href="https://apnews.com/live/donald-trump-news-updates-4-14-2025">Trump ignored Supreme Court order on deportee – Associated Press</a>
