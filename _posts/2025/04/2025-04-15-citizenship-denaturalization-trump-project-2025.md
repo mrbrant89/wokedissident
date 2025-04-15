@@ -127,8 +127,10 @@ Project 2025 proposes turning these niche programs into a **mass denaturalizatio
 
 Let’s look at what’s already happened:
 
-<figure>
-  <canvas id="denaturalizationChart" width="100%" height="400"></canvas>
+<figure style="max-width: 100%; margin: 2rem 0;">
+  <div style="position: relative; width: 100%; max-width: 100%; height: 400px;">
+    <canvas id="denaturalizationChart"></canvas>
+  </div>
   <figcaption>Chart 1: Denaturalization Filings, 2008–2025 (projected). Source: ACLU FOIA, DHS annual reports, Project 2025 estimates.</figcaption>
 </figure>
 
