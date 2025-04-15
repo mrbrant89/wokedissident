@@ -128,9 +128,54 @@ Project 2025 proposes turning these niche programs into a **mass denaturalizatio
 Let’s look at what’s already happened:
 
 <figure>
-  <img src="https://cdn.jsdelivr.net/gh/wokedissident/assets/denaturalization-filings-2008-2024.png" alt="Denaturalization Filings by Year" style="width:100%;">
-  <figcaption>Chart 1: Denaturalization Filings, 2008–2024. Note the Trump spike. Source: FOIA requests via ACLU, DHS annual stats.</figcaption>
+  <canvas id="denaturalizationChart" width="100%" height="400"></canvas>
+  <figcaption>Chart 1: Denaturalization Filings, 2008–2025 (projected). Source: ACLU FOIA, DHS annual reports, Project 2025 estimates.</figcaption>
 </figure>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const ctx1 = document.getElementById('denaturalizationChart').getContext('2d');
+  new Chart(ctx1, {
+    type: 'line',
+    data: {
+      labels: ['2008', '2010', '2012', '2014', '2016', '2018', '2020', '2022', '2024', '2025*'],
+      datasets: [{
+        label: 'Denaturalization Filings',
+        data: [30, 28, 25, 32, 35, 130, 40, 26, 48, 210],
+        borderColor: 'rgba(255, 99, 132, 1)',
+        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+        borderWidth: 3,
+        pointRadius: 4,
+        tension: 0.4
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: (context) => `${context.raw} cases`
+          }
+        }
+      },
+      scales: {
+        x: {
+          ticks: { color: '#fff' },
+          grid: { color: '#333' }
+        },
+        y: {
+          beginAtZero: true,
+          ticks: {
+            color: '#fff',
+            callback: (val) => `${val}`
+          },
+          grid: { color: '#333' }
+        }
+      }
+    }
+  });
+</script>
 
 The Biden administration slowed this machine down. The Trump team wants to shove it into overdrive—and they’ve already started.
 
