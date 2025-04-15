@@ -127,6 +127,26 @@ Project 2025 proposes turning these niche programs into a **mass denaturalizatio
 
 Let’s look at what’s already happened:
 
+The Biden administration slowed this machine down. The Trump team wants to shove it into overdrive—and they’ve already started.
+
+Remember **Romero**? No trial. No defense. Just “flagged” and disappeared into a foreign prison.
+
+Now meet **Kilmar Abrego Garcia**, a Salvadoran man with three U.S. citizen kids and a **court order protecting him from deportation**. He was granted *withholding of removal*—a legal shield that says: "You can’t deport this person because they’ll be tortured or killed."
+
+Trump deported him anyway[22](https://apnews.com/live/donald-trump-news-updates-4-14-2025).
+
+Let that sink in: the U.S. government admitted the deportation was illegal. The **Supreme Court ordered** that he be returned. The administration refused.
+
+ICE called it an “administrative error.” Like whoops, we sent the wrong guy to a maximum-security foreign gulag. Our bad.
+
+Abrego is now locked in **El Salvador’s CECOT**, a prison so brutal it makes Guantánamo look like a Marriott. And the Trump admin’s response? Not our problem.
+
+A popular conspiracy theory across social media predicts that Garcia is dead, so impossible to return. Hopefully that is wrong and he gets the freedom he deserves - if we are ever free of these incompetant fascists.
+
+This is what happens when the bureaucracy becomes the weapon.
+
+It’s not about fixing immigration. It’s about **cleansing the books**. Erasing human beings with a click. And **hoping no one notices until the cell door slams shut**.
+
 <figure style="max-width: 100%; margin: 2rem 0;">
   <div style="position: relative; width: 100%; max-width: 100%; height: 400px;">
     <canvas id="denaturalizationChart"></canvas>
@@ -179,58 +199,6 @@ Let’s look at what’s already happened:
   });
 </script>
 
-The Biden administration slowed this machine down. The Trump team wants to shove it into overdrive—and they’ve already started.
-
-Remember **Romero**? No trial. No defense. Just “flagged” and disappeared into a foreign prison.
-
-Now meet **Kilmar Abrego Garcia**, a Salvadoran man with three U.S. citizen kids and a **court order protecting him from deportation**. He was granted *withholding of removal*—a legal shield that says: "You can’t deport this person because they’ll be tortured or killed."
-
-Trump deported him anyway [22].
-
-Let that sink in: the U.S. government admitted the deportation was illegal. The **Supreme Court ordered** that he be returned. The administration refused.
-
-ICE called it an “administrative error.” Like whoops, we sent the wrong guy to a maximum-security foreign gulag. Our bad.
-
-Abrego is now locked in **El Salvador’s CECOT**, a prison so brutal it makes Guantánamo look like a Marriott. And the Trump admin’s response? Not our problem.
-
-This is what happens when the bureaucracy becomes the weapon.
-
-It’s not about fixing immigration. It’s about **cleansing the books**. Erasing human beings with a click. And **hoping no one notices until the cell door slams shut**.
-
-<figure>
-  <canvas id="denaturalizationChart" width="600" height="300"></canvas>
-  <figcaption>Chart 1: Denaturalization Filings, 2008–2025 (projected). Source: DHS, TRAC, FOIA data.</figcaption>
-
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script>
-    const ctx1 = document.getElementById('denaturalizationChart').getContext('2d');
-    new Chart(ctx1, {
-      type: 'line',
-      data: {
-        labels: ['2008', '2010', '2012', '2014', '2016', '2018', '2020', '2022', '2024', '2025'],
-        datasets: [{
-          label: 'Denaturalization Filings',
-          data: [25, 30, 20, 35, 40, 135, 45, 28, 50, 200],
-          borderColor: 'rgba(255, 99, 132, 1)',
-          backgroundColor: 'rgba(255, 99, 132, 0.2)',
-          borderWidth: 3,
-          pointRadius: 4,
-          tension: 0.3
-        }]
-      },
-      options: {
-        plugins: {
-          legend: { display: false }
-        },
-        scales: {
-          x: { ticks: { color: '#fff' }, grid: { color: '#333' } },
-          y: { ticks: { color: '#fff' }, grid: { color: '#333' } }
-        }
-      }
-    });
-  </script>
-</figure>
-
 ## **Authoritarian Playbook: How Regimes Erase You**
 
 ### *First, They Redefine Belonging.*
@@ -246,7 +214,7 @@ But look closer:
 - **Francoist Spain**: Exiled its own citizens over “incorrect affiliations.”
 - **The United States, 2025**: Using “fraud” and “national security” to deport people with **court protections**.
 
-This isn’t an echo. It’s the same damn playbook—with a fresh coat of stars and stripes.
+This is the same damn playbook — just with a fresh coat of stars and stripes.
 
 <figure>
 <table>
@@ -284,7 +252,7 @@ This isn’t an echo. It’s the same damn playbook—with a fresh coat of stars
 
 **Romero**’s deportation? Zero due process. Just tattoos and a vague gang allegation. Even **Joe Rogan** called it a "horrible mistake" [20](https://www.theguardian.com/us-news/2025/apr/01/its-a-tradition-outrage-in-venezuela-as-us-deports-makeup-artist-for-religious-tattoos) [21](https://www.nbcnews.com/news/latino/family-fears-safety-venezuelan-makeup-artist-deported-salvadoran-megap-rcna200078).
 
-**Abrego Garcia**? Deported despite having legal protection. Even after the **Supreme Court told the administration to bring him back**, Trump’s team refused [22].
+**Abrego Garcia**? Deported despite having legal protection. Even after the **Supreme Court told the administration to bring him back**, Trump’s team refused [22](https://apnews.com/live/donald-trump-news-updates-4-14-2025).
 
 This isn’t about crime. This isn’t about law.
 
@@ -312,9 +280,57 @@ Let that last one hit: troops, on U.S. soil, rounding people up.
 This isn’t about border enforcement. This is about **domestic mass detention**.
 
 <figure>
-  <img src="https://cdn.jsdelivr.net/gh/wokedissident/assets/us-deportation-sites-map-2025.jpg" alt="Planned Deportation/Detention Sites 2025" style="width:100%;">
+  <div id="deportationMap" style="height: 400px; width: 100%; border-radius: 1rem; margin-bottom: 1rem;"></div>
   <figcaption>Map 1: Planned Interior Deportation & Detention Infrastructure, 2025. Source: FOIA disclosures, DHS planning docs.</figcaption>
 </figure>
+
+<!-- Leaflet JS & CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+<script>
+  const map = L.map('deportationMap').setView([37.8, -96], 4); // Center USA
+
+  // Base Layer
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // Custom Detention Site Markers
+  const facilities = [
+    {
+      name: "Fort Bliss (TX)",
+      lat: 31.812, lon: -106.421,
+      description: "Military base slated for tent city expansion under Project 2025."
+    },
+    {
+      name: "Fort Drum (NY)",
+      lat: 44.055, lon: -75.784,
+      description: "Planned long-term interior ICE detention hub."
+    },
+    {
+      name: "Leavenworth (KS)",
+      lat: 39.311, lon: -94.922,
+      description: "Federal site contracted for high-security detainment."
+    },
+    {
+      name: "Carrizo Springs (TX)",
+      lat: 28.517, lon: -99.869,
+      description: "Existing shelter to be converted to adult deportation staging facility."
+    },
+    {
+      name: "Adelanto ICE Processing Center (CA)",
+      lat: 34.576, lon: -117.415,
+      description: "Privately run. Under renewed contract with GEO Group."
+    }
+  ];
+
+  facilities.forEach(site => {
+    L.marker([site.lat, site.lon])
+      .addTo(map)
+      .bindPopup(`<strong>${site.name}</strong><br>${site.description}`);
+  });
+</script>
 
 And the price tag? Staggering.
 
@@ -391,8 +407,6 @@ This is the future. Not speculative. **Operational.**
 
 And unless it’s stopped, the only thing missing from the buses will be a **punch card**.
 
-Perfect. What you just gave me is raw, righteous fire—and now it’s forged into a section that *burns*. Here's the **revised CECOT section**, merged with your full briefing, complete with a **CSS grid** gallery and placeholder slots for the detainee stories. Copy-paste ready for your Jekyll blog.
-
 ## **Outsourcing Torture: The CECOT Black Site Built With U.S. Dollars**
 
 The U.S. government is now sending men to be buried—alive—in a foreign prison built for permanent punishment.
@@ -409,47 +423,120 @@ The U.S. signed a **$6 million-a-year deal** to make this our offshore Guantanam
 ### Inside CECOT: The Facts
 
 <figure>
-  <ul>
-    <li>Built for 40,000 inmates—designed for **permanent detention.**</li>
-    <li>No outdoor time. Lights stay on 24/7. Inmates lose their sense of time, and their minds.</li>
-    <li>No visits. No calls. No letters. Cell signals blocked for **1.5 miles.**</li>
-    <li>Cells hold up to 100 men with **two toilets.** No beds. No pillows. No sunlight.</li>
-    <li>Medical care? None. Over **350 dead** so far. Most from malnutrition, disease, or blunt trauma.</li>
-    <li>Forced kneeling. Simulated drowning. Naked beatings. Solitary in pitch-dark cells. Deaths in custody? Buried in **mass graves.**</li>
-  </ul>
-  <figcaption>Source: Human Rights Watch, Cristosal, UN Rapporteurs, direct testimonies</figcaption>
+  <style>
+    .cec-fact-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .cec-card {
+      background-color: #fff !important;
+      color: #000 !important;
+      border-left: 6px solid #ff4d4f;
+      padding: 1.25rem 1.5rem;
+      border-radius: 1rem;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .cec-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+    }
+
+    .cec-card h4 {
+      margin: 0 0 0.5rem;
+      color: #b30000;
+      font-size: 1.1rem;
+      font-weight: 700;
+    }
+
+     .cec-card img {
+      width: 100%;
+      border-radius: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .cec-card p {
+      margin: 0;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      color: #000 !important;
+    }
+  </style>
+
+  <div class="cec-fact-grid">
+
+    <div class="cec-card">
+      <h4>Permanent Detention</h4>
+      <p>Built to hold 40,000 men with no possibility of release. “They will never return to their communities.”</p>
+    </div>
+
+    <div class="cec-card">
+      <h4>No Sunlight, No Sleep</h4>
+      <p>Lights on 24/7. No outdoor time. Inmates lose all sense of time—many develop psychosis or trauma.</p>
+    </div>
+
+    <div class="cec-card">
+      <h4>Total Isolation</h4>
+      <p>No family visits. No calls. No mail. Signal blocking for 1.5 miles. Most inmates never get formally charged.</p>
+    </div>
+
+    <div class="cec-card">
+      <h4>100 Men. 2 Toilets.</h4>
+      <p>Cells packed shoulder to shoulder. No beds. No pillows. Just iron slats, concrete, and rot.</p>
+    </div>
+
+    <div class="cec-card">
+      <h4>350+ Deaths and Counting</h4>
+      <p>Most from medical neglect, starvation, or trauma. No outside medical care allowed—ever.</p>
+    </div>
+
+    <div class="cec-card">
+      <h4>Torture, Then the Mass Grave</h4>
+      <p>Simulated drowning. Solitary in total darkness. Forced kneeling. Dead bodies buried without notice.</p>
+    </div>
+
+  </div>
+
+  <figcaption style="margin-top: 1rem; font-size: 0.85rem; color: #aaa;">
+    Source: Human Rights Watch, Cristosal, UN Rapporteurs, direct testimonies
+  </figcaption>
 </figure>
 
 One survivor said they had to sleep beside corpses. Others report sharing a jug of water between 100 people. Some have lost their voices from prolonged silence and stress.
 
 And we sent them there.
 
-<figure>
-  <canvas id="cecotChart" width="300" height="300"></canvas>
-  <figcaption>Chart 2: 75% of CECOT deportees have no criminal record. Source: FOIA filings, legal briefs, media reports.</figcaption>
+<figure style="max-width: 100%; margin: 2rem 0;">
+  <div style="position: relative; width: 100%; max-width: 100%; height: 400px;">
+      <canvas id="cecotChart" width="300" height="300"></canvas>
+      <figcaption>Chart 2: 75% of CECOT deportees have no criminal record. Source: FOIA filings, legal briefs, media reports.</figcaption>
 
-  <script>
-    const ctx2 = document.getElementById('cecotChart').getContext('2d');
-    new Chart(ctx2, {
-      type: 'doughnut',
-      data: {
-        labels: ['No Criminal Record', 'Criminal Record'],
-        datasets: [{
-          data: [179, 59],
-          backgroundColor: ['rgba(54, 162, 235, 0.8)', 'rgba(255, 99, 132, 0.8)'],
-          borderColor: ['#111', '#111'],
-          borderWidth: 2
-        }]
-      },
-      options: {
-        plugins: {
-          legend: {
-            labels: { color: '#fff', font: { size: 14 } }
+      <script>
+        const ctx2 = document.getElementById('cecotChart').getContext('2d');
+        new Chart(ctx2, {
+          type: 'doughnut',
+          data: {
+            labels: ['No Criminal Record', 'Criminal Record'],
+            datasets: [{
+              data: [179, 59],
+              backgroundColor: ['rgba(54, 162, 235, 0.8)', 'rgba(255, 99, 132, 0.8)'],
+              borderColor: ['#111', '#111'],
+              borderWidth: 2
+            }]
+          },
+          options: {
+            plugins: {
+              legend: {
+                labels: { color: '#fff', font: { size: 14 } }
+              }
+            }
           }
-        }
-      }
-    });
-  </script>
+        });
+      </script>
+    </div>
 </figure>
 
 ### **Men Trapped in CECOT Right Now**
@@ -460,7 +547,6 @@ And we sent them there.
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 1.5rem;
-      margin-top: 2rem;
     }
     .cec-card {
       background: #111;
@@ -538,7 +624,7 @@ If this sickens you, good. Here’s how to fight back:
 - **Support legal teams.** Groups like RAICES, ACLU, Cristosal, IRAP, and Amnesty are in this fight.
 - **Break the silence.** Authoritarianism thrives on darkness. Shine a floodlight.
 
-This isn’t just immigration policy. It’s an American export of **torture, secrecy, and impunity**.
+We must stop this American export of **torture, secrecy, and impunity**.
 
 And if you don’t speak up now, don’t be shocked when the trucks come for someone with *your* last name next.
 
@@ -556,7 +642,7 @@ Stephen Miller and Heritage want to **end birthright citizenship** for children 
 
 And once that legal theory lands? A child born in L.A. to Salvadoran parents becomes a “non-citizen”—retroactively.
 
-This isn’t fringe legal theory. It’s already **in the federal policy pipeline**.
+This isn’t fringe legal theory, it’s already **in the federal policy pipeline**.
 
 So what does that create?
 
@@ -600,7 +686,7 @@ The result? **A country where rights aren’t guaranteed. They’re reviewed.**
 
 Romero didn’t even get a hearing. Abrego Garcia had legal protection—and got deported anyway. You think a birth certificate is going to save you from a flagged database and a silent ICE knock?
 
-This isn’t about immigration. It’s about **control**. And when citizenship becomes **revocable**, what you’re living under isn’t a democracy. It’s **an empire of eligibility**.
+When citizenship becomes **revocable**, what you’re living under isn’t a democracy. It’s **an empire of eligibility**.
 
 ## **The Line Isn’t at the Border. It’s Under Your Feet**
 
@@ -611,9 +697,10 @@ They don’t need to pass some sweeping new bill. They just need to follow the p
 And they’ve **already started**.
 
 - **Romero**: deported based on tattoos, no hearing, no charges. Still missing.
-- **Abrego Garcia**: protected by law, backed by court orders, deported anyway. Still imprisoned. The **Supreme Court said bring him back**—Trump said no [22].
+- **Abrego Garcia**: protected by law, backed by court orders, deported anyway. Still imprisoned. The **Supreme Court said bring him back**—Trump and Bukele said no [22](https://apnews.com/live/donald-trump-news-updates-4-14-2025).
 
 You think the Constitution protects you? It didn’t protect them.  
+
 You think the courts are the last safeguard? They were ignored.
 
 This isn’t “what if.” This is **already happening**.
@@ -621,6 +708,7 @@ This isn’t “what if.” This is **already happening**.
 The next phase of Trumpism doesn’t need jackboots. It has **AI audits**, **ICE databases**, **foreign prisons**, and a bureaucracy programmed for silence.
 
 So the question isn’t whether they’ll come for more people.  
+
 The question is **how far down the list you are**.
 
 And if you think this ends with immigrants, **you haven’t been paying attention**.
