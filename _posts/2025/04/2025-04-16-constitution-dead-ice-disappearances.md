@@ -150,6 +150,11 @@ The man stayed disappeared.
 
 And that was that.
 
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZMpkP7iPDXM?si=GhAyahavWYb2Z8Wv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption><strong>Video:</strong> 'They can't hide the ball': Judge cracks the whip on Trump lawyers in deportation case</figcaption>
+</figure>
+
 ## **The Bukele Publicity Stunt Was the Middle Finger**
 
 Four days after the Supreme Court ordered Kilmar’s release, El Salvador’s President **Nayib Bukele** flew to Washington.
