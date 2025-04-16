@@ -165,8 +165,10 @@ He came for a photo op—with the man who helped him fill CECOT with deported mi
 
 Standing on the White House lawn, Bukele smirked as reporters asked if he’d send Kilmar back.
 
-> “Preposterous,” he said.  
-> “He’s a terrorist.”  
+> “Preposterous,” he said.
+> 
+> “He’s a terrorist.”
+> 
 > “I don’t have the power to release him.”
 
 Trump stood beside him and nodded.
@@ -601,6 +603,11 @@ This is not a slap on the wrist. It’s **criminal contempt**, not civil. That m
 But here’s the kicker: the Justice Department—run by Trump—gets to decide whether to prosecute his own cronies.
 
 Sound like a dead end? Not quite.
+
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5HRmolBoM_k?si=L2BoXipkA4_1hhE_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption><strong>Video:</strong> BREAKING: Judge Starts Criminal Contempt Proceedings Against Trump Admin</figcaption>
+</figure>
 
 Thanks to the Supreme Court’s 1987 *Young v. U.S. ex rel Vuitton* ruling, **if DOJ refuses**, the **judge can appoint his own special prosecutor**. That’s right—Boasberg can pull a Jack Smith out of a hat and go full scorched earth if the feds stonewall.
 
