@@ -610,7 +610,7 @@ It’s us. Or no one.
 
 > **Author Note**   
 > 
-> Much of the information used to write this article ended data collection with the Biden presidency. The surveillance state has likely escalated strengthened since the 2nd inauguaration of Donald J. Trump on January 20, 2025.
+> Much of the information used to write this article ended data collection with the Biden presidency. The surveillance state has likely strengthened since the 2nd inauguaration of Donald J. Trump on January 20, 2025.
 
 <a name="sources"></a>  
 ## Sources
