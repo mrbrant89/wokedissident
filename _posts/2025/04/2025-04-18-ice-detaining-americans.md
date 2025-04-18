@@ -435,7 +435,7 @@ If you’ve ever said “this can’t happen here,” open your eyes.
   <div class="action-card">
     <i class="fas fa-print fa-2x mb-2 text-red-600"></i>
     <p class="action-title">Print Your Rights</p>
-    <p>Know how to handle ICE, DEA, TSA. Carry it with you. Teach others.</p>
+    <p><a href="https://immigrantjustice.org/know-your-rights/ice-encounter">Know how to handle ICE, DEA, TSA</a>. Carry it with you. Teach others.</p>
   </div>
   <div class="action-card">
     <i class="fas fa-camera fa-2x mb-2 text-red-600"></i>
