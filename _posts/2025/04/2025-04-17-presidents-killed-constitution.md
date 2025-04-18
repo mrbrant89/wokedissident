@@ -126,12 +126,12 @@ And now he is.
 
 <div class="cec-card">
   <h4><i class="fas fa-user-shield"></i> Reagan</h4>
-  <p>Promoted the <strong>Unitary Executive Theory</strong> through the DOJ—arguing the president controls the entire executive branch, including independent oversight. Helped normalize covert wars and executive secrecy <a href="https://www.justice.gov/olc/unitary-executive-theory-and-office-legal-counsel">[1]</a>.</p>
+  <p>Promoted the <strong>Unitary Executive Theory</strong> through the DOJ—arguing the president controls the entire executive branch, including independent oversight. Helped normalize covert wars and executive secrecy <a href="https://verfassungsblog.de/the-unbearable-lightness-of-the-unitary-executive-theory/">[1]</a>.</p>
 </div>
 
 <div class="cec-card">
   <h4><i class="fas fa-scale-balanced"></i> George H.W. Bush</h4>
-  <p>Launched the Panama invasion without Congress. Escalated executive war powers and normalized "police actions" abroad <a href="https://www.nytimes.com/1989/12/21/world/us-invades-panama-in-hopes-to-seize-noriega.html">[2]</a>.</p>
+  <p>Launched the Panama invasion without Congress. Escalated executive war powers and normalized "police actions" abroad <a href="https://www.britannica.com/topic/United-States-invasion-of-Panama">[2]</a>.</p>
 </div>
 
 <div class="cec-card">
@@ -141,17 +141,17 @@ And now he is.
 
 <div class="cec-card">
   <h4><i class="fas fa-bomb"></i> George W. Bush</h4>
-  <p>Built the modern surveillance state: <strong>Patriot Act, AUMF, torture memos, Guantánamo</strong>, and global drone strikes. Permanently altered U.S. law in the name of security <a href="https://www.lawfareblog.com/what-patriot-act-does">[4]</a> <a href="https://www.aclu.org/news/national-security/the-patriot-act-has-damaged-national-security">[5]</a>.</p>
+  <p>Built the modern surveillance state: <strong>Patriot Act, AUMF, torture memos, Guantánamo</strong>, and global drone strikes. Permanently altered U.S. law in the name of security <a href="https://www.aclu.org/end-mass-surveillance-under-the-patriot-act">[4]</a> <a href="https://www.aclu.org/surveillance-under-the-patriot-act">[5]</a>.</p>
 </div>
 
 <div class="cec-card">
   <h4><i class="fas fa-satellite"></i> Obama</h4>
-  <p>Expanded Bush’s surveillance empire. Ordered the <strong>drone killing of an American citizen without trial</strong>. Prosecuted more whistleblowers than all previous presidents combined <a href="https://www.nytimes.com/2011/12/16/us/politics/defense-bill-detains-terrorism-suspects.html">[6]</a> <a href="https://www.npr.org/2021/06/09/1004674380/obama-espionage-act-whistleblowers-leaks">[7]</a>.</p>
+  <p>Expanded Bush’s surveillance empire. Ordered the <strong>drone killing of an American citizen without trial</strong>. Prosecuted more whistleblowers than all previous presidents combined <a href="https://www.aclu.org/press-releases/president-obama-signs-indefinite-detention-bill-law">[6]</a> <a href="https://freedom.press/issues/obama-used-espionage-act-put-record-number-reporters-sources-jail-and-trump-could-be-even-worse/">[7]</a>.</p>
 </div>
 
 <div class="cec-card">
   <h4><i class="fas fa-user-lock"></i> Biden</h4>
-  <p>Failed to repeal emergency powers. Resurrected Title 42. Kept ICE surveillance infrastructure Trump used for mass deportations. Paved the way for authoritarian abuse <a href="https://www.brennancenter.org/our-work/analysis-opinion/trump-emergency-powers-and-biden">[8]</a> <a href="https://www.georgetownlawtechreview.org/title-42-expansion/GLTR-08-2022/">[9]</a>.</p>
+  <p>Failed to repeal emergency powers. Resurrected Title 42. Kept ICE surveillance infrastructure Trump used for mass deportations. Paved the way for authoritarian abuse <a href="https://www.brennancenter.org/our-work/analysis-opinion/2022-update-reforming-emergency-powers">[8]</a> <a href="https://www.law.georgetown.edu/environmental-law-review/blog/the-biden-administrations-stopgap-immigration-reform-leaves-the-united-states-unprepared-for-climate-refugees/">[9]</a>.</p>
 </div>
 
 </div>
@@ -227,7 +227,7 @@ Here’s the timeline of bipartisan erosion of rights and safeguards—from theo
 
   <div class="timeline-event">
     <h4>1987</h4>
-    <p>Reagan’s DOJ pushes the <strong>Unitary Executive Theory</strong>, laying the legal foundation for unchecked executive control <a href="https://www.justice.gov/olc/unitary-executive-theory-and-office-legal-counsel">[1]</a>.</p>
+    <p>Reagan’s DOJ pushes the <strong>Unitary Executive Theory</strong>, laying the legal foundation for unchecked executive control <a href="https://verfassungsblog.de/the-unbearable-lightness-of-the-unitary-executive-theory/">[1]</a>.</p>
   </div>
 
   <div class="timeline-event">
@@ -237,12 +237,12 @@ Here’s the timeline of bipartisan erosion of rights and safeguards—from theo
 
   <div class="timeline-event">
     <h4>2001</h4>
-    <p>Bush passes the <strong>Patriot Act</strong>, launches warrantless surveillance, and legalizes indefinite detention post-9/11 <a href="https://www.lawfareblog.com/what-patriot-act-does">[4]</a> <a href="https://www.aclu.org/news/national-security/the-patriot-act-has-damaged-national-security">[5]</a>.</p>
+    <p>Bush passes the <strong>Patriot Act</strong>, launches warrantless surveillance, and legalizes indefinite detention post-9/11 <a href="https://www.aclu.org/end-mass-surveillance-under-the-patriot-act">[4]</a> <a href="https://www.aclu.org/surveillance-under-the-patriot-act">[5]</a>.</p>
   </div>
 
   <div class="timeline-event">
     <h4>2011</h4>
-    <p>Obama signs NDAA allowing indefinite detention of Americans. Expands drone strike list and sets “kill list” policy <a href="https://www.nytimes.com/2011/12/16/us/politics/defense-bill-detains-terrorism-suspects.html">[6]</a>.</p>
+    <p>Obama signs NDAA allowing indefinite detention of Americans. Expands drone strike list and sets “kill list” policy <a href="https://www.aclu.org/press-releases/president-obama-signs-indefinite-detention-bill-law">[6]</a>.</p>
   </div>
 
   <div class="timeline-event">
@@ -252,7 +252,7 @@ Here’s the timeline of bipartisan erosion of rights and safeguards—from theo
 
   <div class="timeline-event">
     <h4>2022–2024</h4>
-    <p>Biden preserves Trump-era surveillance and deportation tools. Expands ICE’s digital tracking footprint and biometric data collection <a href="https://www.brennancenter.org/our-work/analysis-opinion/trump-emergency-powers-and-biden">[8]</a> <a href="https://www.georgetownlawtechreview.org/title-42-expansion/GLTR-08-2022/">[9]</a>.</p>
+    <p>Biden preserves Trump-era surveillance and deportation tools. Expands ICE’s digital tracking footprint and biometric data collection <a href="https://www.brennancenter.org/our-work/analysis-opinion/2022-update-reforming-emergency-powers">[8]</a> <a href="https://www.law.georgetown.edu/environmental-law-review/blog/the-biden-administrations-stopgap-immigration-reform-leaves-the-united-states-unprepared-for-climate-refugees/">[9]</a>.</p>
   </div>
 
   <div class="timeline-event">
@@ -267,7 +267,7 @@ Here’s the timeline of bipartisan erosion of rights and safeguards—from theo
 
   <div class="timeline-event">
     <h4>April 16, 2025</h4>
-    <p>Federal judge finds <strong>probable cause for criminal contempt</strong> against the Trump administration. DOJ must decide whether to prosecute—or let the judge appoint his own <a href="https://apnews.com/article/immigration-trump-garcia-el-salvador-deportation-f986acacb559f21bdc13cd69f6ff7be5">[10]</a>.</p>
+    <p>Federal judge finds <strong>probable cause for criminal contempt</strong> against the Trump administration. DOJ must decide whether to prosecute—or let the judge appoint his own <a href=https://apnews.com/live/donald-trump-news-updates-4-16-2025">[10]</a>.</p>
   </div>
 
 </div>
@@ -288,27 +288,27 @@ Obama inherited the most powerful surveillance apparatus in human history—and 
 
 <div class="cec-card">
   <h4><i class="fas fa-network-wired"></i> Total Information Awareness</h4>
-  <p>Originally a Bush program to collect and centralize data on everyone. Obama rebranded and quietly expanded it through the <strong>NSA Prism program</strong> <a href="https://www.nytimes.com/2011/12/16/us/politics/defense-bill-detains-terrorism-suspects.html">[6]</a>.</p>
+  <p>Originally a Bush program to collect and centralize data on everyone. Obama rebranded and quietly expanded it through the <strong>NSA Prism program</strong> <a href="https://www.aclu.org/press-releases/president-obama-signs-indefinite-detention-bill-law">[6]</a>.</p>
 </div>
 
 <div class="cec-card">
   <h4><i class="fas fa-shield-alt"></i> Patriot Act Reauthorizations</h4>
-  <p>Democrats didn’t repeal the Patriot Act—they renewed it. Again and again. With only modest reforms <a href="https://www.nytimes.com/2011/12/16/us/politics/defense-bill-detains-terrorism-suspects.html">[6]</a>.</p>
+  <p>Democrats didn’t repeal the Patriot Act—they renewed it. Again and again. With only modest reforms <a href="https://www.aclu.org/press-releases/president-obama-signs-indefinite-detention-bill-law">[6]</a>.</p>
 </div>
 
 <div class="cec-card">
   <h4><i class="fas fa-crosshairs"></i> Kill List & Drone Assassinations</h4>
-  <p>Obama maintained a <strong>"kill list"</strong> and personally signed off on drone strikes—including the killing of <strong>Anwar al-Awlaki</strong>, an American citizen, without trial <a href="https://www.nytimes.com/2011/12/16/us/politics/defense-bill-detains-terrorism-suspects.html">[6]</a>.</p>
+  <p>Obama maintained a <strong>"kill list"</strong> and personally signed off on drone strikes—including the killing of <strong>Anwar al-Awlaki</strong>, an American citizen, without trial <a href="https://www.aclu.org/press-releases/president-obama-signs-indefinite-detention-bill-law">[6]</a>.</p>
 </div>
 
 <div class="cec-card">
   <h4><i class="fas fa-user-secret"></i> Espionage Act Crackdown</h4>
-  <p>More whistleblowers were prosecuted under Obama than under every other president combined—sending a chilling message to anyone who exposed government wrongdoing <a href="https://www.npr.org/2021/06/09/1004674380/obama-espionage-act-whistleblowers-leaks">[7]</a>.</p>
+  <p>More whistleblowers were prosecuted under Obama than under every other president combined—sending a chilling message to anyone who exposed government wrongdoing <a href="https://freedom.press/issues/obama-used-espionage-act-put-record-number-reporters-sources-jail-and-trump-could-be-even-worse/">[7]</a>.</p>
 </div>
 
 <div class="cec-card">
   <h4><i class="fas fa-building-lock"></i> Fusion Centers</h4>
-  <p>Post-9/11 “fusion centers” proliferated under Obama—secretive coordination hubs linking local police, federal agents, and private surveillance contractors <a href="https://www.nytimes.com/2011/12/16/us/politics/defense-bill-detains-terrorism-suspects.html">[6]</a>.</p>
+  <p>Post-9/11 “fusion centers” proliferated under Obama—secretive coordination hubs linking local police, federal agents, and private surveillance contractors <a href="https://www.aclu.org/press-releases/president-obama-signs-indefinite-detention-bill-law">[6]</a>.</p>
 </div>
 
 </div>
@@ -450,7 +450,7 @@ Each president **normalized the abnormal**—eroding guardrails bit by bit, even
 
   <div class="surv-card">
     <h4>Obama</h4>
-    <p>Expanded <a href="https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data" target="_blank">PRISM</a>, <a href="https://www.spiegel.de/international/world/the-nsa-s-secret-tool-xkeyscore-a-980331.html" target="_blank">XKEYSCORE</a>, and upstream collection. Prosecuted whistleblowers under the Espionage Act. Used “national security” to justify spying on journalists <a href="https://www.aclu.org/issues/national-security/privacy-and-surveillance/mass-surveillance" target="_blank">[12]</a> <a href="https://www.washingtonpost.com/politics/obamas-war-on-leaks/2013/05/13/57ed5c4c-bc62-11e2-97d4-a479289a31f9_story.html" target="_blank">[13]</a>.</p>
+    <p>Expanded <a href="https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data" target="_blank">PRISM</a>, <a href="https://www.spiegel.de/international/world/the-nsa-s-secret-tool-xkeyscore-a-980331.html" target="_blank">XKEYSCORE</a>, and upstream collection. Prosecuted whistleblowers under the Espionage Act. Used “national security” to justify spying on journalists <a href="https://www.aclu.org/news/national-security/the-privacy-lesson-of-9-11-mass-surveillance-is-not-the-way-forward" target="_blank">[12]</a> <a href="https://www.washingtonpost.com/politics/obamas-war-on-leaks/2013/05/13/57ed5c4c-bc62-11e2-97d4-a479289a31f9_story.html" target="_blank">[13]</a>.</p>
   </div>
 
   <div class="surv-card">
@@ -610,25 +610,25 @@ It’s us. Or no one.
 <a name="sources"></a>  
 ## Sources
 
-[1] <a href="https://www.justice.gov/olc/unitary-executive-theory-and-office-legal-counsel" target="_blank">The Unitary Executive Theory – U.S. DOJ</a>  
-[2] <a href="https://www.nytimes.com/1989/12/21/world/us-invades-panama-in-hopes-to-seize-noriega.html" target="_blank">U.S. Invades Panama – NYT</a>  
+[1] <a href="https://verfassungsblog.de/the-unbearable-lightness-of-the-unitary-executive-theory/" target="_blank">The Unitary Executive Theory – U.S. DOJ</a>  
+[2] <a href="https://www.britannica.com/topic/United-States-invasion-of-Panama" target="_blank">Operation Just Cause - U.S. Invades Panama</a>  
 [3] <a href="https://www.law.cornell.edu/uscode/text/28/2244" target="_blank">Antiterrorism and Effective Death Penalty Act (AEDPA) – Cornell Law</a>  
-[4] <a href="https://www.lawfareblog.com/what-patriot-act-does" target="_blank">What the Patriot Act Does – Lawfare</a>  
-[5] <a href="https://www.aclu.org/news/national-security/the-patriot-act-has-damaged-national-security" target="_blank">The Patriot Act Has Damaged National Security – ACLU</a>  
-[6] <a href="https://www.nytimes.com/2011/12/16/us/politics/defense-bill-detains-terrorism-suspects.html" target="_blank">Obama Signs Indefinite Detention Law – NYT</a>  
-[7] <a href="https://www.npr.org/2021/06/09/1004674380/obama-espionage-act-whistleblowers-leaks" target="_blank">Obama and the Espionage Act – NPR</a>  
-[8] <a href="https://www.brennancenter.org/our-work/analysis-opinion/trump-emergency-powers-and-biden" target="_blank">Trump's Emergency Powers, Biden’s Continuation – Brennan Center</a>  
-[9] <a href="https://www.georgetownlawtechreview.org/title-42-expansion/GLTR-08-2022/" target="_blank">Biden and Title 42 – Georgetown Law</a>  
-[10] <a href="https://apnews.com/article/immigration-trump-garcia-el-salvador-deportation-f986acacb559f21bdc13cd69f6ff7be5" target="_blank">Judge Finds Trump Officials May Be Held in Contempt – AP</a>  
-[11] <a href="https://www.nytimes.com/2005/12/16/politics/bush-secretly-lets-nsa-spy-on-us.html" target="_blank">Bush Secretly Lets NSA Spy on U.S. – NYT</a>  
-[12] <a href="https://www.aclu.org/issues/national-security/privacy-and-surveillance/mass-surveillance" target="_blank">Mass Surveillance Under Obama – ACLU</a>  
-[13] <a href="https://freedom.press/news/obama-years-espionage-act-chilling-impact-national-security-reporting/" target="_blank">Obama’s Espionage Crackdown – Freedom of the Press Foundation</a>  
-[14] <a href="https://www.vice.com/en/article/xgqkww/ice-is-still-using-vast-surveillance-database" target="_blank">ICE’s Secret Surveillance Tools – VICE</a>  
-[15] <a href="https://www.eff.org/deeplinks/2023/12/president-bidens-administration-supports-fisa-702-extension" target="_blank">Biden Admin Supports FISA 702 Extension – EFF</a>  
-[16] <a href="https://www.justice.gov/archives/opa/blog/clipper-chip-cryptography-and-privacy-1990s" target="_blank">The Clipper Chip Controversy – DOJ Archives</a>  
-[17] <a href="https://crsreports.congress.gov/product/pdf/R/R45172" target="_blank">Palantir Contracts and Predictive Policing – CRS Report</a>  
-[18] <a href="https://nsarchive.gwu.edu/dc.html?doc=2910047-National-Security-Agency-NSA-Project-MINARET" target="_blank">Project MINARET – NSA Archives</a>  
-[19] <a href="https://irp.fas.org/program/collect/echelon.htm" target="_blank">ECHELON Surveillance System – Federation of American Scientists</a>  
-[20] <a href="https://www.nytimes.com/2013/06/07/us/nsa-verizon-calls.html" target="_blank">NSA and Verizon Metadata Orders – NYT</a>  
-[21] <a href="https://www.reuters.com/world/us/judge-says-trump-officials-could-face-contempt-charges-over-deportations-2025-04-17/" target="_blank">Judge Says Trump Officials Could Face Contempt Charges – Reuters</a>  
-[22] <a href="https://www.cnn.com/2025/04/17/politics/trump-deportations-court-ruling/index.html" target="_blank">Judge Warns DOJ Could Be Bypassed in Contempt Case – CNN</a>
+[4] <a href="https://www.aclu.org/end-mass-surveillance-under-the-patriot-act" target="_blank">What the Patriot Act Does – Lawfare</a>  
+[5] <a href="https://www.aclu.org/surveillance-under-the-patriot-act" target="_blank">The Patriot Act Has Damaged National Security – ACLU</a>  
+[6] <a href="https://www.aclu.org/press-releases/president-obama-signs-indefinite-detention-bill-law" target="_blank">Obama Signs Indefinite Detention Law</a>  
+[7] <a href="https://freedom.press/issues/obama-used-espionage-act-put-record-number-reporters-sources-jail-and-trump-could-be-even-worse/" target="_blank">Obama and the Espionage Act</a>  
+[8] <a href="https://www.brennancenter.org/our-work/analysis-opinion/2022-update-reforming-emergency-powers" target="_blank">Trump's Emergency Powers, Biden’s Continuation</a>  
+[9] <a href="https://www.law.georgetown.edu/environmental-law-review/blog/the-biden-administrations-stopgap-immigration-reform-leaves-the-united-states-unprepared-for-climate-refugees/" target="_blank">Biden and Title 42 – Georgetown Law</a>  
+[10] <a href="https://apnews.com/live/donald-trump-news-updates-4-16-2025" target="_blank">Judge Finds Trump Officials May Be Held in Contempt (Note: This was still a live / developing article at the time of publishing, link might break)</a>  
+[11] <a href="https://www.nytimes.com/2005/12/16/politics/bush-lets-us-spy-on-callers-without-courts.html" target="_blank">Bush Secretly Lets NSA Spy on U.S. – NYT</a>  
+[12] <a href="https://www.aclu.org/news/national-security/the-privacy-lesson-of-9-11-mass-surveillance-is-not-the-way-forward" target="_blank">The Privacy Lesson of 9/11: Mass Surveillance is Not the Way Forward</a>  
+[13] <a href="https://freedom.press/issues/how-obama-administration-laid-groundwork-trumps-coming-crackdown-press/" target="_blank">How the Obama administration laid the groundwork for Trump’s coming crackdown on the press</a>  
+[14] <a href="https://www.vice.com/en/article/ice-irs-hacking-tools/" target="_blank">ICE, IRS Explored Using Hacking Tools, New Documents Show – VICE</a>  
+[15] <a href="https://www.eff.org/deeplinks/2023/12/president-bidens-administration-supports-fisa-702-extension" target="_blank">U.S. Senate and Biden Administration Shamefully Renew and Expand FISA Section 702, Ushering in a Two Year Expansion of Unconstitutional Mass Surveillance – EFF</a>  
+[16] <a href="https://archive.epic.org/crypto/clipper/" target="_blank">The Clipper Chip Controversy – Electronic Privacy Information Center</a>  
+[17] <a href="https://crsreports.congress.gov/product/pdf/R/R45172" target="_blank">AI and The Admnistration of Justice in the United States of America: Predictive Policing & Predictive Justice – CRS Report</a>  
+[18] <a href="https://www.archives.gov/files/research/jfk/releases/docid-32423575.pdf" target="_blank">Project MINARET – U.S. National Archives</a>  
+[19] <a href="https://irp.fas.org/program/process/991101-echelon-mj.htm" target="_blank">ECHELON Surveillance System – Federation of American Scientists</a>  
+[20] <a href="https://www.nytimes.com/2013/06/06/us/us-secretly-collecting-logs-of-business-calls.html" target="_blank">NSA and Verizon Metadata Orders – NYT</a>  
+[21] <a href="https://www.reuters.com/legal/judge-finds-trump-administration-disregarded-order-venezuelan-deportations-2025-04-16/" target="_blank">Judge Says Trump Officials Could Face Contempt Charges – Reuters</a>  
+[22] <a href="https://www.nbcnews.com/politics/politics-news/president-defies-judges-orders-contempt-rcna201455" target="_blank">Judge Warns DOJ Could Be Bypassed in Contempt Case – NBC News</a>
