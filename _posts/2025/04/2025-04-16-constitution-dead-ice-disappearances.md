@@ -407,7 +407,7 @@ By the time you die—**and hundreds have**—you’ve already been buried alive
 
 And the U.S.? We paid for it.
 
-The Biden administration laid the groundwork.  
+[The Biden administration laid the groundwork](https://wokedissident.com/2025/presidents-killed-constitution).
 
 The Trump administration paid **$6 million** to hold our deportees there for a year.
 
