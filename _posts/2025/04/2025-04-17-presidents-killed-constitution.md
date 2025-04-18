@@ -267,7 +267,7 @@ Here’s the timeline of bipartisan erosion of rights and safeguards—from theo
 
   <div class="timeline-event">
     <h4>April 16, 2025</h4>
-    <p>Federal judge finds <strong>probable cause for criminal contempt</strong> against the Trump administration. DOJ must decide whether to prosecute—or let the judge appoint his own <a href=https://apnews.com/live/donald-trump-news-updates-4-16-2025">[10]</a>.</p>
+    <p>Federal judge finds <strong>probable cause for criminal contempt</strong> against the Trump administration. DOJ must decide whether to prosecute—or let the judge appoint his own <a href="https://apnews.com/live/donald-trump-news-updates-4-16-2025">[10]</a>.</p>
   </div>
 
 </div>
