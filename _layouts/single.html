@@ -23,11 +23,21 @@ layout: default
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
 
-    {% assign slug = page.slug | default: page.title | slugify %}
-    <audio controls class="post-audio" style="margin-bottom:1.5rem;">
-      <source src="/assets/audio/{{ slug }}.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
+    {% assign audio_filename = page.path | split: "/" | last | replace: ".md", ".mp3" %}
+    {% assign audio_path = "/assets/audio/" | append: audio_filename %}
+    {% assign audio_files = site.static_files | where: "path", audio_path %}
+    
+    {% if audio_files.size > 0 %}
+      <figure class="post-audio">
+        <figcaption class="post-audio-caption">
+          🎧 Prefer to listen instead?
+        </figcaption>
+        <audio controls preload="metadata" class="post-audio-player">
+          <source src="{{ audio_path }}" type="audio/mpeg">
+          Your browser does not support the audio element. <a href="{{ audio_path }}">Download MP3</a>
+        </audio>
+      </figure>
+    {% endif %}    
 
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
