@@ -395,6 +395,7 @@ Each president **normalized the abnormal**—eroding guardrails bit by bit, even
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 1.5rem;
     margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
   }
 
   .surv-card {
@@ -467,10 +468,10 @@ Each president **normalized the abnormal**—eroding guardrails bit by bit, even
 
 Democrats still love to cosplay as protectors of democracy.
 
-But when push comes to shove, **liberals side with capital**—not the people.  
+But when push comes to shove, **liberals side with capital**—not the people-**every time**.  
 They’ll protect markets over rights, banks over bodies, and “stability” over justice.
 
-And when the fascists finally show up with the receipts?
+And when the fascists finally show up with the gameplan?
 
 They’ll find the whole machine ready to go.
 
@@ -516,7 +517,7 @@ Because **power is addictive**, and the surveillance state is bipartisan crack.
 </div>
 
 They didn’t dismantle these tools.  
-They left them loaded—**and now Trump has the trigger**.
+They left them loaded—**and now Trump is pulling the trigger**.
 
 Here’s your next section—**the final punch** before the source list. This one brings it home hard and dares the reader to stay passive.
 
