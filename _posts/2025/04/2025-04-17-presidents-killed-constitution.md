@@ -517,16 +517,15 @@ Because **power is addictive**, and the surveillance state is bipartisan crack.
 </div>
 
 They didn’t dismantle these tools.  
-They left them loaded—**and now Trump is pulling the trigger**.
 
-Here’s your next section—**the final punch** before the source list. This one brings it home hard and dares the reader to stay passive.
+They left them loaded—**and now Trump is pulling the trigger**.
 
 ## So What Now?
 
-The Constitution is a corpse.  
-The courts are ignored.  
-The agencies are rogue.  
-And the autocrat is just getting started.
+- The Constitution is a corpse.  
+- The courts are ignored.  
+- The agencies are rogue.  
+- And the autocrat is just getting started.
 
 Let’s stop pretending the system is going to save us. It won’t. It can’t. It was never built to.
 
@@ -606,9 +605,11 @@ And clarity.
 And fire.
 
 Because no one is coming to save us.  
+
 It’s us. Or no one.
 
-> **Author Note**
+> **Author Note**   
+> 
 > Much of the information used to write this article ended data collection with the Biden presidency. The surveillance state has likely escalated strengthened since the 2nd inauguaration of Donald J. Trump on January 20, 2025.
 
 <a name="sources"></a>  
