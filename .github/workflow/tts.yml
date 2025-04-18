@@ -1,0 +1,36 @@
+name: Generate Audio for Blog Posts
+
+on:
+  push:
+    paths:
+      - '_posts/**.md'
+
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install google-cloud-texttospeech python-frontmatter
+
+      - name: Decode Google credentials
+        run: echo "${{ secrets.GCLOUD_TTS_CREDENTIALS }}" > gcloud-key.json
+
+      - name: Generate audio files
+        run: |
+          python scripts/generate_tts.py
+
+      - name: Commit audio files
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add assets/audio/*.mp3 || true
+          git commit -m "Add TTS audio" || echo "No changes"
+          git push
