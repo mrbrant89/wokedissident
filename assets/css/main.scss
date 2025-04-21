@@ -193,22 +193,33 @@ figure.post-audio {
   border-radius: 6px !important;
 }
 
-/* Sticky Google Translate Bar */
-.translate-sticky {
+/* Sticky Google Translate Dropdown */
+#language-switcher {
   position: fixed;
   bottom: 1rem;
   right: 1rem;
   z-index: 9999;
-  background: #fff;
-  padding: 0.5rem 0.75rem;
+  background: #ffffff;
   border: 1px solid #ccc;
   border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  padding: 0.5rem;
+  font-family: sans-serif;
 }
 
-.translate-sticky select {
-  font-size: 0.9rem;
-  padding: 2px 6px;
-  border-radius: 4px;
+#language-switcher select {
+  font-size: 0.95rem;
+  color: #000000 !important;
+  background: transparent;
+  border: none;
+  outline: none;
+  appearance: none;
+  padding: 0.25rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+#language-switcher option {
+  color: #000000;
+  background: #ffffff;
 }
