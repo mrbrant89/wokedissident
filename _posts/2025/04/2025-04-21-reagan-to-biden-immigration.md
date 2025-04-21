@@ -37,32 +37,105 @@ Meanwhile, the result? A ballooning undocumented population, record-high border 
 
 This isn’t about “open borders” or “fortress America.” It’s about the facts—and the forty years of political theater that brought us here.
 
-## 🚨 TL;DR: Pick Your Flavor of Chaos
+<style>
+  .tldr-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
 
-This one’s long. Like 40 years of bipartisan incompetence long. So take a breath, pick your poison, and jump in:
+  .tldr-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1.25rem 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    transition: transform 0.2s ease;
+  }
 
-- 🤯 **[What counts as “legal” immigration?](#what-the-hell-even-is-legal-immigration)**  
-  It’s not what you think. Spoiler: most people “fall out” of legality—they don’t sneak in.
+  .tldr-card:hover {
+    transform: translateY(-4px);
+  }
 
-- 🚷 **[Asylum, parole, CBP One?](#life-in-limbo-the-immigration-twilight-zone)**  
-  Legal-ish. Stable? Hell no. Welcome to the twilight zone of U.S. immigration.
+  .tldr-icon {
+    font-size: 1.75rem;
+    margin-bottom: 0.75rem;
+  }
 
-- 🧾 **[1M legal immigrants per year?](#legal-admissions-vs-the-undocumented-reality)**  
-  Sure—but we’ve also got 13 million+ in limbo. And most didn’t cross the border illegally.
+  .tldr-title {
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #000;
+  }
 
-- 🧑‍🤝‍🧑 **[Who’s actually here?](#the-real-immigrant-profile-whos-actually-here)**  
-  Hint: They're already working, paying taxes, and living next door.
+  .tldr-text {
+    font-size: 0.9rem;
+    color: #333;
+  }
 
-- 🧩 **[Why don’t they “just come legally”?](#why-unauthorized-migration-happens-its-not-a-mystery)**  
-  Because there’s no damn line. Unless you’re rich. Or Canadian.
+  @media (max-width: 600px) {
+    .tldr-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
 
-- 🔥 **[Why they’re fleeing?](#crisis-chaos-and-culpability-why-theyre-fleeing)**  
-  Because we helped light the match. Then punished the people trying to escape the fire.
+<h2>🚨 TL;DR: Pick Your Flavor of Chaos</h2>
+<p>This one’s long. Like 40 years of bipartisan incompetence long. So if don't want to read the whole thing, you can pick your own adventure by clicking one of the sections below:</p>
 
-- 🧠 **[Still confused?](#the-migration-myth-machine-lies-distractions-and-border-theater)**  
-  Let’s kill the dumbest myths and point fingers where they belong.
+<div class="tldr-grid">
+  <a href="#what-the-hell-even-is-legal-immigration" class="tldr-card">
+    <div class="tldr-icon">🤯</div>
+    <div class="tldr-title">What counts as “legal” immigration?</div>
+    <div class="tldr-text">It’s not what you think. Spoiler: most people “fall out” of legality—they don’t sneak in.</div>
+  </a>
 
-Let’s go.
+  <a href="#life-in-limbo-the-immigration-twilight-zone" class="tldr-card">
+    <div class="tldr-icon">🚷</div>
+    <div class="tldr-title">Asylum, parole, CBP One?</div>
+    <div class="tldr-text">Legal-ish. Stable? Hell no. Welcome to the twilight zone of U.S. immigration.</div>
+  </a>
+
+  <a href="#legal-admissions-vs-the-undocumented-reality" class="tldr-card">
+    <div class="tldr-icon">🧾</div>
+    <div class="tldr-title">1M legal immigrants per year?</div>
+    <div class="tldr-text">Sure—but we’ve also got 13 million+ in limbo. And most didn’t cross the border illegally.</div>
+  </a>
+
+  <a href="#the-real-immigrant-profile-whos-actually-here" class="tldr-card">
+    <div class="tldr-icon">🧑‍🤝‍🧑</div>
+    <div class="tldr-title">Who’s actually here?</div>
+    <div class="tldr-text">Hint: They’re already working, paying taxes, and living next door.</div>
+  </a>
+
+  <a href="#why-unauthorized-migration-happens-its-not-a-mystery" class="tldr-card">
+    <div class="tldr-icon">🧩</div>
+    <div class="tldr-title">Why don’t they “just come legally”?</div>
+    <div class="tldr-text">Because there’s no damn line. Unless you’re rich. Or Canadian.</div>
+  </a>
+
+  <a href="#crisis-chaos-and-culpability-why-theyre-fleeing" class="tldr-card">
+    <div class="tldr-icon">🔥</div>
+    <div class="tldr-title">Why they’re fleeing?</div>
+    <div class="tldr-text">Because we helped light the match. Then punished the people trying to escape the fire.</div>
+  </a>
+
+  <a href="#the-migration-myth-machine-lies-distractions-and-border-theater" class="tldr-card">
+    <div class="tldr-icon">🧠</div>
+    <div class="tldr-title">Still confused?</div>
+    <div class="tldr-text">Let’s kill the dumbest myths and point fingers where they belong.</div>
+  </a>
+
+  <a href="#executive-failure-every-president-built-this-crisis" class="tldr-card">
+    <div class="tldr-icon">🏛️</div>
+    <div class="tldr-title">Executive Dysfunction</div>
+    <div class="tldr-text">Reagan to Biden, every president added bricks to the disaster wall. Some painted it, others just set it on fire.</div>
+  </a>
+</div>
 
 ## What the Hell Even *Is* Legal Immigration?
 
@@ -386,7 +459,7 @@ Low percentage, right? Sure—but 1% of 39 million is still a small city’s wor
 
 We’re flying blind on a massive part of the undocumented flow.
 
-### Table III.B: Mode of Entry Breakdown
+### Table III. B: Mode of Entry Breakdown
 
 <figure>
   <table>
@@ -753,44 +826,133 @@ If you're:
 
 You got it. Time to follow the money—and the missiles.
 
+## Executive Failure: Every President Built This Crisis
+
+Let’s kill the myth that immigration policy is just a victim of “gridlock.” It’s not.
+
+Every president since Reagan has **worsened** the mess—by choice. Some cloaked it in compassion, others weaponized it in plain sight. But every one of them handed off a more chaotic, punitive, and broken system than they inherited.
+
+Some highlights?  
+- **Reagan**: Promised amnesty, delivered confusion.  
+- **Clinton**: Criminalized overstay and asylum.  
+- **Bush Jr.**: Nationalized immigration into DHS hell.  
+- **Obama**: Gave us DACA—and record deportations.  
+- **Trump**: Broke it on purpose.  
+- **Biden**: Rebranded cruelty as tech-savvy control.  
+- **Trump 2.0**: Now doing it all again, just faster.
+
+And the damage is cumulative.  
+This isn’t “partisan.” It’s a **timeline of deliberate sabotage.**
+
+<style>
+  .timeline {
+    position: relative;
+    padding: 2rem 0;
+    margin: 2rem 0;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 2rem;
+    width: 4px;
+    height: 90%;
+    background: #fff;
+  }
+
+  .timeline-event {
+    position: relative;
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+    padding-left: 1.5rem;
+    border-left: 3px solid transparent;
+    background: #fff !important;
+    padding: 1rem;
+    border-radius: 12px;
+  }
+
+  .timeline-event::before {
+    content: '';
+    position: absolute;
+    top: 0.2rem;
+    left: -1.75rem;
+    width: 1rem;
+    height: 1rem;
+    background: #ff4d4f;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+
+  .timeline-event h4 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000;
+  }
+
+  .timeline-event p {
+    margin: 0.25rem 0 0;
+    font-size: 0.9rem;
+    color: #333;
+  }
+
+  @media screen and (max-width: 600px) {
+    .timeline::before {
+      left: 0.5rem;
+    }
+    .timeline-event {
+      margin-left: 2rem;
+      padding-left: 1rem;
+    }
+  }
+</style>
+
+<div class="timeline">
+
+  <div class="timeline-event">
+    <h4>1986</h4>
+    <p><strong>Reagan</strong> signs IRCA—amnesty for millions, but no fix for future flows. Employer sanctions added, enforcement weak.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>1996</h4>
+    <p><strong>Clinton</strong> signs IIRIRA, expanding deportable offenses and 3/10-year bans for overstays <a href="#sources">[7]</a>.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2002</h4>
+    <p><strong>Bush Jr.</strong> creates DHS, folding immigration into national security. Legal entry becomes a security clearance test <a href="#sources">[3]</a>.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2012</h4>
+    <p><strong>Obama</strong> launches DACA. Also deports 3 million people, many with U.S. citizen kids <a href="#sources">[19]</a>.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2017–2021</h4>
+    <p><strong>Trump</strong> separates families, slashes refugee resettlement, guts asylum, and ramps up ICE raids <a href="#sources">[23]</a>.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2021–2024</h4>
+    <p><strong>Biden</strong> ends Title 42, but replaces it with CBP One. Digital border control + parole with no permanence <a href="#sources">[24]</a> <a href="#sources">[25]</a>.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2025</h4>
+    <p><strong>Trump 2.0</strong> starts with ICE raids, executive mass removals, and legal defiance of court orders <a href="#sources">[23]</a>.</p>
+  </div>
+
+</div>
+
+Each admin kicked the can.  
+Each one called it “reform.”  
+And each one tightened the screws.
+
 ## Crisis, Chaos, and Culpability: Why They’re Fleeing
 
 Let’s stop pretending this is some cosmic mystery. People don’t risk their lives in the Darién Gap for fun. They’re not hiking 2,000 miles with toddlers because they “hate our laws.”
-
-They’re running from fire.  
-And spoiler: we helped light it.
-
-### Haiti: Decades of Interventions, Zero Stability
-
-Haiti isn’t a failed state. It’s a **systematically sabotaged one**.
-
-- In 1994, the U.S. *re-installed* President Aristide after a coup—then later turned on him when he tried to raise the minimum wage.
-- After the 2010 earthquake, billions in aid flowed in—and much of it disappeared into U.S. contractor pockets. The **Red Cross built exactly six houses** [source forthcoming].
-- The U.S. propped up President Jovenel Moïse even as he ruled by decree and postponed elections. His 2021 assassination left a power vacuum now filled by armed gangs.
-
-Today?  
-Haitians flee neighborhoods **run by warlords**, not mayors. Kidnappings, rape, arson—routine. The government? Nonexistent. And the U.S.? Still backing a “transitional council” with zero legitimacy or teeth [source forthcoming].
-
-### Venezuela: Sanctions, Starvation, and a Collapsing State
-
-Yes, Maduro is a corrupt authoritarian. Yes, Chavismo wrecked the economy. But let’s not whitewash our role:
-
-- U.S. sanctions—especially after 2017—choked off Venezuela’s oil industry, its main source of revenue [source forthcoming].
-- This **accelerated hyperinflation**, fuel shortages, and the collapse of hospitals, schools, and power grids.
-- As of 2023, **over 7.7 million Venezuelans** had fled the country—the largest displacement in the Western Hemisphere [source forthcoming].
-
-When the U.S. imposed “maximum pressure,” it didn’t topple the regime.  
-It crushed the people.
-
-### U.S. Policy: The Arsonist Who Shows Up With a Hose
-
-Haitians and Venezuelans aren't coming because Biden “invited” them or because Trump “wasn’t tough enough.”  
-They’re coming because **their countries disintegrated**, and Washington helped push them off the cliff.
-
-Then, instead of offering durable legal refuge, we hand them:
-- TPS (Temporary Protected Status) that’s renewed every 18 months
-- Parole programs that rely on paperwork they don’t have
-- An asylum backlog that stretches into 2028
 
 <figure style="width: 100%; margin: 2em 0;">
   <svg viewBox="0 0 800 120" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
@@ -819,13 +981,6 @@ Then, instead of offering durable legal refuge, we hand them:
     TPS offers temporary safety—but no permanent future. Many recipients have been here over 20 years. Source: <a href="https://www.migrationpolicy.org">MPI</a>
   </figcaption>
 </figure>
-
-And when that doesn’t work, we throw them on a deportation flight.  
-It’s like blaming a housefire victim for not using the front door.
-
-## Crisis, Chaos, and Culpability: Why They’re Fleeing
-
-Let’s stop pretending this is some cosmic mystery. People don’t risk their lives in the Darién Gap for fun. They’re not hiking 2,000 miles with toddlers because they “hate our laws.”
 
 They’re running from fire.  
 And spoiler: we helped light it.
@@ -1027,41 +1182,113 @@ Let’s recap:
 - We sanctioned Venezuela into starvation, hoping to unseat Maduro, and instead helped trigger one of the largest refugee crises on earth.
 - Then we responded by **tightening the border**, slapping up new asylum restrictions, and **exporting our crisis to Mexico** and the rest of Latin America.
 
-<figure style="width: 100%; margin: 2em 0;">
-  <svg viewBox="0 0 800 220" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .line { stroke: #444; stroke-width: 2; }
-      .dot { fill: #d62728; }
-      .label { font: 13px sans-serif; fill: #222; text-anchor: start; }
-    </style>
-    <rect width="100%" height="100%" fill="#fefefe"/>
+<style>
+  .timeline {
+    position: relative;
+    padding: 2rem 0;
+    margin: 2rem 0;
+  }
 
-    <line x1="100" y1="100" x2="700" y2="100" class="line"/>
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 2rem;
+    width: 4px;
+    height: 90%;
+    background: #fff;
+  }
 
-    <!-- Haiti 1994 -->
-    <circle cx="150" cy="100" r="6" class="dot"/>
-    <text x="160" y="95" class="label">1994: U.S. reinstates Aristide (then drops him)</text>
+  .timeline-event {
+    position: relative;
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+    padding-left: 1.5rem;
+    border-left: 3px solid transparent;
+    background: #fff !important;
+    padding: 1rem;
+    border-radius: 12px;
+  }
 
-    <!-- Haiti 2010 -->
-    <circle cx="250" cy="100" r="6" class="dot"/>
-    <text x="260" y="95" class="label">2010: Earthquake, Red Cross scandal</text>
+  .timeline-event::before {
+    content: '';
+    position: absolute;
+    top: 0.2rem;
+    left: -1.75rem;
+    width: 1rem;
+    height: 1rem;
+    background: #ff4d4f;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
 
-    <!-- Venezuela 2017 -->
-    <circle cx="400" cy="100" r="6" class="dot"/>
-    <text x="410" y="95" class="label">2017: U.S. imposes financial sanctions on Venezuela</text>
+  .timeline-event h4 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000;
+  }
 
-    <!-- Venezuela 2019 -->
-    <circle cx="500" cy="100" r="6" class="dot"/>
-    <text x="510" y="95" class="label">2019: Oil sanctions cripple economy</text>
+  .timeline-event p {
+    margin: 0.25rem 0 0;
+    font-size: 0.9rem;
+    color: #333;
+  }
 
-    <!-- Haiti 2021 -->
-    <circle cx="600" cy="100" r="6" class="dot"/>
-    <text x="610" y="95" class="label">2021: Moïse assassinated, U.S. backs “council”</text>
-  </svg>
-  <figcaption>
-    Foreign policy timeline: intervene, destabilize, deny responsibility. Then panic when the fallout shows up at your border. Sources: <a href="https://www.crisisgroup.org">Crisis Group</a>, <a href="https://www.gao.gov/products/gao-21-239">GAO</a>
-  </figcaption>
-</figure>
+  .timeline-caption {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    color: #ccc;
+  }
+
+  .timeline-caption a {
+    color: #ff4d4f;
+    text-decoration: underline;
+  }
+
+  @media screen and (max-width: 600px) {
+    .timeline::before {
+      left: 0.5rem;
+    }
+    .timeline-event {
+      margin-left: 2rem;
+      padding-left: 1rem;
+    }
+  }
+</style>
+
+<div class="timeline">
+
+  <div class="timeline-event">
+    <h4>1994</h4>
+    <p>U.S. reinstates President Aristide in Haiti—then drops support when he challenges elites.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2010</h4>
+    <p>Haiti earthquake. Red Cross raises $500M, builds six houses. Billions in aid vanish.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2017</h4>
+    <p>U.S. imposes financial sanctions on Venezuela. Inflation explodes. Food imports collapse.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2019</h4>
+    <p>Oil sanctions slam Venezuela. Millions begin fleeing. Economy goes dark.</p>
+  </div>
+
+  <div class="timeline-event">
+    <h4>2021</h4>
+    <p>Haitian President Moïse assassinated. U.S. backs a “transitional council” as gangs take over.</p>
+  </div>
+
+</div>
+
+<p class="timeline-caption">
+  Foreign policy timeline: intervene, destabilize, deny responsibility. Then panic when the fallout shows up at your border.  
+  Sources: <a href="https://www.crisisgroup.org">Crisis Group</a>, <a href="https://www.gao.gov/products/gao-21-239">GAO</a>
+</p>
 
 None of this is accidental.  
 It’s policy.
