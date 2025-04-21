@@ -14,15 +14,28 @@ MAX_BYTES = 5000
 client = texttospeech.TextToSpeechClient()
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+from markdown import markdown
+from bs4 import BeautifulSoup
+
 def get_main_content_only(content):
     try:
+        # Extract main content between heading and Sources
         start_match = re.search(r"(?i)^US Citizens Held.*", content, re.MULTILINE)
         start = start_match.start() if start_match else 0
         end_match = re.search(r"(?i)^##\s*Sources", content[start:], re.MULTILINE)
         end = start + end_match.start() if end_match else len(content)
-        return content[start:end].strip()
+        excerpt = content[start:end].strip()
     except Exception:
-        return content.strip()
+        excerpt = content.strip()
+
+    # Convert Markdown to HTML
+    rendered_html = markdown(excerpt)
+
+    # Strip all HTML tags, keeping only readable text
+    soup = BeautifulSoup(rendered_html, features="html.parser")
+    plain_text = soup.get_text(separator="\n")
+
+    return plain_text
 
 def chunk_text(text, max_bytes):
     paragraphs = text.split("\n")
