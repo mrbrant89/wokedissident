@@ -1,13 +1,16 @@
 name: Generate TTS
 
 on:
-  workflow_dispatch:
   push:
+    branches: [main]
     paths:
-      - "_posts/**/*.md"
+      - "_posts/**"
 
-permissions:
-  contents: write
+on:
+  push:
+    branches: [main]
+    paths:
+      - "_posts/**"
 
 jobs:
   tts:

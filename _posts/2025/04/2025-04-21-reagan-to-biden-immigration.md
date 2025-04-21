@@ -1294,9 +1294,8 @@ If you burn down your neighbor’s house, you don’t get to complain when they 
 And yet—here we are.
 
 So the question isn’t “Why are they coming?”  
-The question is: **How long are we going to pretend we didn’t light the match?**
 
-Here’s your **revised and complete source list**, with **all new visuals and citations included**—fully ordered, numbered, and clean for immediate copy/paste into your `## Sources` section.
+The question is: **How long are we going to pretend we didn’t light the match?**
 
 ## Sources  
 <a name="sources"></a>  
