@@ -1347,7 +1347,7 @@ So the question isn’t “Why are they coming?”
 The question is: **How long are we going to pretend we didn’t light the match?**
 
 ## Sources  
-<a name="sources"></a>  
+<a name="sources"></a>
 
 [1] <a href="https://www.uscis.gov/glossary-term/50728">Lawful Permanent Resident (Green Card Holder) – USCIS</a>  
 [2] <a href="https://www.dhs.gov/immigration-statistics/yearbook">Yearbook of Immigration Statistics (FY2023) – DHS</a>  
@@ -1371,16 +1371,20 @@ The question is: **How long are we going to pretend we didn’t light the match?
 [20] <a href="https://www.iowapublicradio.org/news-from-npr/2025-04-08/migrants-who-entered-the-u-s-via-cbp-one-app-should-leave-immediately-dhs-says">CBP One Deportation Warning – NPR</a>  
 [21] <a href="https://www.migrationpolicy.org/news/unauthorized-immigrant-population-mid-2023">Unauthorized Immigrant Population (2023) – MPI</a>  
 [22] <a href="https://cmsny.org/publications/jmhs-visa-overstays-border-wall/">Visa Overstays vs. Border Crossers – Center for Migration Studies</a>  
-[23] <a href="https://www.dhs.gov/sites/default/files/2024-10/24_1011_CBP-Entry-Exit-Overstay-Report-FY23-Data.pdf">DHS FY2023 Overstay Report – Department of Homeland Security</a>  
-[24] <a href="https://www.crisisgroup.org/sites/default/files/044-towards-a-post-minustah-haiti-making-an-effective-transition.pdf">Post-MINUSTAH Haiti Report – International Crisis Group</a>  
+[23] <a href="https://www.dhs.gov/sites/default/files/2024-10/24_1011_CBP-Entry-Exit-Overstay-Report-FY23-Data.pdf">DHS FY2023 Overstay Report – DHS</a>  
+[24] <a href="https://www.crisisgroup.org/sites/default/files/044-towards-a-post-minustah-haiti-making-an-effective-transition.pdf">Post-MINUSTAH Haiti Report – Crisis Group</a>  
 [25] <a href="https://www.propublica.org/article/how-the-red-cross-raised-half-a-billion-dollars-for-haiti-and-built-6-homes">Red Cross in Haiti – ProPublica</a>  
 [26] <a href="https://www.congress.gov/crs-product/R47394">Haiti: Political Crisis and U.S. Policy – CRS</a>  
 [27] <a href="https://www.crisisgroup.org/latin-america-caribbean/caribbean/haiti/107-locked-transition-politics-and-violence-haiti">Locked Transition in Haiti – Crisis Group</a>  
-[28] <a href="https://www.rescue.org/article/haiti-political-instability-gang-violence-and-disease">Haiti: Political Instability and Gang Violence – IRC</a>  
+[28] <a href="https://www.rescue.org/article/haiti-political-instability-gang-violence-and-disease">Haiti: Instability and Gang Violence – IRC</a>  
 [29] <a href="https://www.gao.gov/products/gao-21-239">Venezuela Sanctions Oversight – GAO</a>  
 [30] <a href="https://www.wola.org/2020/10/new-report-us-sanctions-aggravated-venezuelas-crisis__trashed/">U.S. Sanctions and Venezuela’s Crisis – WOLA</a>  
 [31] <a href="https://documents1.worldbank.org/curated/en/099022024085522704/pdf/P17578013f69d804019f8516ffbb072fc34.pdf">Skilled Venezuelan Migrants – World Bank</a>  
 [32] <a href="https://www.cgdev.org/publication/sanctions-venezuela-not-driving-migration-southwest-border-empirical-assessment">Sanctions Not Driving Migration – CGD</a>  
 [33] <a href="https://cepr.net/publications/did-sanctions-relief-drive-venezuelan-migration-to-the-us/">Did Sanctions Relief Drive Migration? – CEPR</a>  
 [34] <a href="https://www.iom.int/news/haiti-displacement-triples-surpassing-one-million-humanitarian-crisis-worsens">Haiti Displacement Crisis – IOM</a>  
-[35] <a href="https://www.dhs.gov/immigration-statistics">Immigration Statistics – DHS</a>
+[35] <a href="https://www.dhs.gov/immigration-statistics">Immigration Statistics – DHS</a>  
+[48] <a href="https://documents1.worldbank.org/curated/en/099022024085522704/pdf/P17578013f69d804019f8516ffbb072fc34.pdf">Venezuelan Professionals – World Bank</a>  
+[54] <a href="https://www.gao.gov/products/gao-21-239">Sanctions Impact on Venezuela – GAO</a>  
+[72] <a href="https://cepr.net/publications/did-sanctions-relief-drive-venezuelan-migration-to-the-us/">Sanctions Relief and Migration – CEPR</a>  
+[74] <a href="https://www.cgdev.org/publication/sanctions-venezuela-not-driving-migration-southwest-border-empirical-assessment">Empirical Assessment: Sanctions & Migration – CGD</a>
