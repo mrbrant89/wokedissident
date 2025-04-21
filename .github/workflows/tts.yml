@@ -15,6 +15,9 @@ jobs:
   tts:
     runs-on: ubuntu-latest
 
+    env:
+      GCLOUD_TTS_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -28,15 +31,7 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y ffmpeg
           python -m pip install --upgrade pip
-          pip install google-cloud-texttospeech python-frontmatter pydub
-
-
-      - name: Authenticate with Google Cloud
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}
-        run: |
-          echo "${GOOGLE_APPLICATION_CREDENTIALS_JSON}" > gcloud-key.json
-          echo "GOOGLE_APPLICATION_CREDENTIALS=$PWD/gcloud-key.json" >> $GITHUB_ENV
+          pip install google-cloud-texttospeech python-frontmatter pydub markdown beautifulsoup4
 
       - name: Generate TTS audio
         run: python scripts/generate_tts.py

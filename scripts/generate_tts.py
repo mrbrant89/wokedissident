@@ -2,20 +2,32 @@ import re
 import io
 import os
 import glob
+import json
 import frontmatter
 from pydub import AudioSegment
 from google.cloud import texttospeech
+from google.oauth2 import service_account
+from markdown import markdown
+from bs4 import BeautifulSoup
 
 # Constants
 POSTS_DIR = "_posts"
 OUTPUT_DIR = "assets/audio"
 MAX_BYTES = 5000
 
-client = texttospeech.TextToSpeechClient()
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+# Load credentials from environment variable
+creds_json = os.environ.get("GCLOUD_TTS_CREDENTIALS")
+if not creds_json:
+    raise RuntimeError("GCLOUD_TTS_CREDENTIALS environment variable is not set or is empty.")
 
-from markdown import markdown
-from bs4 import BeautifulSoup
+try:
+    creds = service_account.Credentials.from_service_account_info(json.loads(creds_json))
+except json.JSONDecodeError as e:
+    raise RuntimeError("GCLOUD_TTS_CREDENTIALS is not valid JSON.") from e
+
+client = texttospeech.TextToSpeechClient(credentials=creds)
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def get_main_content_only(content):
     try:
@@ -30,12 +42,8 @@ def get_main_content_only(content):
 
     # Convert Markdown to HTML
     rendered_html = markdown(excerpt)
-
-    # Strip all HTML tags, keeping only readable text
     soup = BeautifulSoup(rendered_html, features="html.parser")
-    plain_text = soup.get_text(separator="\n")
-
-    return plain_text
+    return soup.get_text(separator="\n")
 
 def chunk_text(text, max_bytes):
     paragraphs = text.split("\n")
