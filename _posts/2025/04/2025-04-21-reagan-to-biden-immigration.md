@@ -94,6 +94,12 @@ This isn’t about “open borders” or “fortress America.” It’s about th
     <div class="tldr-text">It’s not what you think. Spoiler: most people “fall out” of legality—they don’t sneak in.</div>
   </a>
 
+  <a href="#the-migration-myth-machine-lies-distractions-and-border-theater" class="tldr-card">
+    <div class="tldr-icon">🧠</div>
+    <div class="tldr-title">Still confused?</div>
+    <div class="tldr-text">Let’s kill the dumbest myths and point fingers where they belong.</div>
+  </a>
+
   <a href="#life-in-limbo-the-immigration-twilight-zone" class="tldr-card">
     <div class="tldr-icon">🚷</div>
     <div class="tldr-title">Asylum, parole, CBP One?</div>
@@ -122,18 +128,6 @@ This isn’t about “open borders” or “fortress America.” It’s about th
     <div class="tldr-icon">🔥</div>
     <div class="tldr-title">Why they’re fleeing?</div>
     <div class="tldr-text">Because we helped light the match. Then punished the people trying to escape the fire.</div>
-  </a>
-
-  <a href="#the-migration-myth-machine-lies-distractions-and-border-theater" class="tldr-card">
-    <div class="tldr-icon">🧠</div>
-    <div class="tldr-title">Still confused?</div>
-    <div class="tldr-text">Let’s kill the dumbest myths and point fingers where they belong.</div>
-  </a>
-
-  <a href="#executive-failure-every-president-built-this-crisis" class="tldr-card">
-    <div class="tldr-icon">🏛️</div>
-    <div class="tldr-title">Executive Dysfunction</div>
-    <div class="tldr-text">Reagan to Biden, every president added bricks to the disaster wall. Some painted it, others just set it on fire.</div>
   </a>
 </div>
 
