@@ -254,7 +254,7 @@ All these people are *here*, but not *really* here. Their status is like Schröd
 
 Asylum sounds simple—flee persecution, request protection. In reality? It’s a legal obstacle course with a multi-year waitlist.
 
-You can apply two ways:
+You could apply two ways:
 - **Affirmatively** with USCIS, if you’re not already in removal proceedings [5](https://www.uscis.gov/glossary-term/50691).
 - **Defensively**, if you’re already in removal and trying to avoid deportation [19](https://www.pewresearch.org/short-reads/2024/07/22/what-we-know-about-unauthorized-immigrants-living-in-the-us).
 
@@ -264,7 +264,7 @@ As of mid-2022, the U.S. had:
 
 That backlog’s bigger than the population of San Francisco—and growing. Fast.
 
-While you wait? You can’t be deported. Maybe you can work. But you can’t leave. You can’t plan. You can’t sleep easy.
+While you wait? You can’t be deported<sup>(in theory)</sup>. Maybe you can work. But you can’t leave. You can’t plan. You can’t sleep easy.
 
 Welcome to the **“Not Illegal But Not Welcome”** club.
 
@@ -280,9 +280,9 @@ They get:
 It’s used for:
 - Afghans, Ukrainians, Venezuelans, Haitians, and more.
 - People in crisis who don’t fit any other box.
-- Biden’s shiny new **CHNV program** (Cuba, Haiti, Nicaragua, Venezuela), which requires a U.S. sponsor and entry through **CBP One** [24](https://www.cbp.gov/document/fact-sheets/cbp-one-fact-sheet-english).
+- Biden’s shiny **CHNV program** (Cuba, Haiti, Nicaragua, Venezuela), which required a U.S. sponsor and entry through **CBP One** [24](https://www.cbp.gov/document/fact-sheets/cbp-one-fact-sheet-english). (Author Note: This program was ended by Trump in 2025.)
 
-It’s not asylum. It’s not a visa. It’s **a Band-Aid with a time limit**.
+It’s wasn't asylum. It’s wasn't a visa. It was **a Band-Aid with a time limit**.
 
 <figure style="width: 100%; margin: 2em 0;">
   <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; text-align: left;">
@@ -326,28 +326,28 @@ It’s not asylum. It’s not a visa. It’s **a Band-Aid with a time limit**.
   </figcaption>
 </figure>
 
-And like all temporary things in the U.S. immigration system, it might just stretch on forever… or get yanked with zero warning.
+And like all temporary things in the U.S. immigration system, it yanked with zero warning.
 
 ### CBP One: Border Management by App Store
 
-CBP One is a **mobile app** that migrants must use to request appointments at U.S. ports of entry.
+CBP One was a (now defunct) **mobile app** that migrants were required to use to request appointments at U.S. ports of entry.
 
-Sounds high-tech. In reality? It’s glitchy, slow, and overwhelmed [25](https://www.iowapublicradio.org/news-from-npr/2025-04-08/migrants-who-entered-the-u-s-via-cbp-one-app-should-leave-immediately-dhs-says).
+Sounds high-tech. In reality? It was glitchy, slow, and overwhelmed [25](https://www.iowapublicradio.org/news-from-npr/2025-04-08/migrants-who-entered-the-u-s-via-cbp-one-app-should-leave-immediately-dhs-says).
 
-Here’s the deal:
-- You can’t just walk up to the border anymore.
-- You schedule a slot in the app, show up, and maybe get processed for asylum or parole.
-- It’s like *OpenTable* for humanitarian desperation.
+This was the deal:
+- Migrants couldn't just walk up to the border anymore.
+- They were required to wait in certain cities, schedule a slot in the app, show up, and maybe get processed for asylum or parole.
+- It was like *OpenTable* for humanitarian desperation.
 
-But this doesn’t guarantee legal status. It just gets you through the door—where you’re dumped into the asylum backlog or granted parole limbo.
+But this didn't guarantee legal status. It just got them through the door—where they were dumped into the asylum backlog or granted parole limbo.
 
-And if you miss your window? DHS now says you’re expected to “leave immediately” [25](https://www.iowapublicradio.org/news-from-npr/2025-04-08/migrants-who-entered-the-u-s-via-cbp-one-app-should-leave-immediately-dhs-says). As if you’ve got a round-trip ticket and an Airbnb waiting in Tegucigalpa.
+And if they missed their window? DHS told you to “leave immediately” [25](https://www.iowapublicradio.org/news-from-npr/2025-04-08/migrants-who-entered-the-u-s-via-cbp-one-app-should-leave-immediately-dhs-says). As if they had a round-trip ticket and an Airbnb waiting in Tegucigalpa.
 
-### Legal-ish: Millions Live in This Gray Zone
+### Legal-ish: Millions Lived in This Gray Zone
 
-This shadow system is **not a bug—it’s a feature**. Why?
+This shadow system was **not a bug—it’s a feature**. Why?
 
-Because it lets politicians:
+Because it let politicians:
 - Say they’re “protecting the vulnerable” *without* granting permanence.
 - Boost enforcement stats *without* overhauling laws.
 - Manage migration flows *without* Congress doing anything.
@@ -368,8 +368,7 @@ The reality? The U.S. **legally admits about 1 million people per year** for per
 - Diversity visa winners
 - Refugees and asylees adjusting status
 
-In FY2023:  
-**1,172,910** new lawful permanent residents (LPRs) were admitted [9](https://www.congress.gov/crs-product/R42866).
+In FY2023: **1,172,910** new lawful permanent residents (LPRs) were admitted [9](https://www.congress.gov/crs-product/R42866).
 
 But here’s the kicker: this number **exceeds the supposed “cap”** on legal immigration because...
 - Immediate relatives of U.S. citizens are **exempt from caps**
@@ -385,7 +384,7 @@ Meanwhile, the shadow population lives next door.
 - **Pew:** 11.0 million undocumented in 2022 [18](https://www.pewresearch.org/short-reads/2024/07/22/what-we-know-about-unauthorized-immigrants-living-in-the-us)
 - **MPI:** 13.7 million by mid-2023, when you count the legally gray (TPS, DACA, parole, pending asylum) [29](https://www.migrationpolicy.org/news/unauthorized-immigrant-population-mid-2023)
 
-**Table III.A: Estimates of the Undocumented Population**
+**Estimates of the Undocumented Population**
 
 | Year       | Estimate       | Source            |
 |------------|----------------|-------------------|
@@ -453,7 +452,7 @@ Low percentage, right? Sure—but 1% of 39 million is still a small city’s wor
 
 We’re flying blind on a massive part of the undocumented flow.
 
-### Table III. B: Mode of Entry Breakdown
+### Mode of Entry Breakdown
 
 <figure>
   <table>
@@ -497,40 +496,54 @@ And the people stuck in limbo? They’re legal enough to pay taxes, but not lega
 
 Forget the slogans. Let’s look at the *foreign-born* population like adults.
 
-<figure style="width: 100%; margin: 2em 0;">
-  <svg viewBox="0 0 800 400" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .slice { stroke: #fff; stroke-width: 2px; }
-      .citizen { fill: #1f77b4; }
-      .lpr { fill: #2ca02c; }
-      .temporary { fill: #ff7f0e; }
-      .unauthorized { fill: #d62728; }
-      .label { font: 14px sans-serif; fill: #333; text-anchor: middle; }
-    </style>
-    <rect width="100%" height="100%" fill="#fefefe"/>
-    
-    <text x="400" y="30" font-size="16" text-anchor="middle" fill="#333">U.S. Foreign-Born Population by Legal Status (2022)</text>
-    
-    <!-- Pie chart -->
-    <circle cx="400" cy="200" r="120" class="slice citizen" stroke-dasharray="235,376" transform="rotate(-90 400 200)"/>
-    <circle cx="400" cy="200" r="120" class="slice lpr" stroke-dasharray="115,376" transform="rotate(47 400 200)"/>
-    <circle cx="400" cy="200" r="120" class="slice temporary" stroke-dasharray="15,376" transform="rotate(158 400 200)"/>
-    <circle cx="400" cy="200" r="120" class="slice unauthorized" stroke-dasharray="86,376" transform="rotate(173 400 200)"/>
-
-    <!-- Labels -->
-    <text x="400" y="80" class="label">Naturalized Citizens (49%)</text>
-    <text x="530" y="160" class="label">Green Card Holders (24%)</text>
-    <text x="470" y="300" class="label">Temporary Status (4%)</text>
-    <text x="310" y="310" class="label">Unauthorized (23%)</text>
-    
-    <text x="400" y="380" font-size="12" text-anchor="middle" fill="#666">
-      Source: Pew Research Center, 2022 American Community Survey
-    </text>
-  </svg>
-  <figcaption>
-    Estimated breakdown of the 2022 U.S. immigrant population by legal status. Source: <a href="https://www.pewresearch.org/short-reads/2024/09/27/key-findings-about-us-immigrants/">Pew Research</a>
+<figure style="max-width:600px; margin: 2rem auto;">
+  <canvas id="legalStatusPieChart" width="400" height="400"></canvas>
+  <figcaption style="text-align:center; font-size:0.9rem; margin-top: 0.5rem;">
+    Estimated breakdown of the 2022 U.S. immigrant population by legal status.  
+    Source: <a href="https://www.pewresearch.org/short-reads/2023/11/02/what-we-know-about-unauthorized-immigrants-living-in-the-us/" target="_blank" style="color: #f08;">Pew Research</a>
   </figcaption>
 </figure>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const ctx = document.getElementById('legalStatusPieChart').getContext('2d');
+    new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: [
+          'Naturalized Citizens (49%)',
+          'Green Card Holders (24%)',
+          'Unauthorized (23%)',
+          'Temporary Status (4%)'
+        ],
+        datasets: [{
+          label: 'U.S. Foreign-Born Population by Legal Status (2022)',
+          data: [49, 24, 23, 4],
+          backgroundColor: ['#4CAF50', '#2196F3', '#FF5722', '#FFC107'],
+          borderColor: '#111',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: { color: '#888', font: { size: 13 } }
+          },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.label}: ${ctx.raw}%`
+            }
+          }
+        }
+      }
+    });
+  });
+</script>
+
+<!-- Chart.js CDN fallback (only include if not globally loaded elsewhere) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 ### Record Numbers, But Still Below Historic Highs
 
@@ -546,7 +559,7 @@ So, unless your grandma was ICE-ing people off the boat, spare us the “unprece
 
 Let’s break it down by legal status. Pew’s 2022 numbers are the clearest snapshot [18](https://www.pewresearch.org/short-reads/2024/09/27/key-findings-about-us-immigrants):
 
-**Table IV.A: U.S. Foreign-Born Population by Status (2022)**
+**U.S. Foreign-Born Population by Status (2022)**
 
 <figure>
   <table>
@@ -583,9 +596,9 @@ Let’s break it down by legal status. Pew’s 2022 numbers are the clearest sna
   <figcaption>Source: Pew Research Center analysis of 2022 American Community Survey data [18]</figcaption>
 </figure>
 
-Translation?  
-**Nearly 3 in 4 immigrants are here legally.**  
-**Half are full-fledged U.S. citizens.**
+**Translation?**
+- Nearly 3 in 4 immigrants are here legally.
+- Half are full-fledged U.S. citizens.
 
 And those here without status? Many have been here **for over a decade**, are raising U.S. citizen children, and pay taxes—without access to most benefits.
 
@@ -603,7 +616,7 @@ We’re talking:
 
 We’ve created a **shadow caste** of semi-legal people we let clean our homes, drive our Ubers, care for our kids—then hang legal purgatory over their heads like a sword.
 
-### DHS Numbers (Spoiler: Not So Precise)
+### **DHS Numbers** (Spoiler: Not So Precise)
 
 DHS tracks Lawful Permanent Residents (LPRs) and naturalizations—but good luck finding up-to-date totals on:
 - How many people are on humanitarian parole
@@ -615,33 +628,29 @@ Why? Because the system is held together by **spreadsheets, duct tape, and wishf
 ### Legal-ish ≠ Secure
 
 Even folks with documents are one job loss, denied renewal, or USCIS backlog away from slipping through the cracks.
-
-A DACA recipient misses a renewal? Game over.  
-A TPS holder’s designation ends? Deportable.  
-An asylum seeker denied after 7 years of waiting? Gone.
+- A DACA recipient misses a renewal? Game over.  
+- A TPS holder’s designation ends? Deportable.  
+- An asylum seeker denied after 7 years of waiting? Gone.
 
 America loves “legal immigration”—until it actually meets the people living in its paperwork purgatory.
 
 ### TL;DR?
-
-Nearly half of all immigrants are full U.S. citizens.  
-Another quarter are green card holders.  
-And roughly a quarter are **undocumented, liminal, or “legal-ish” but not secure.**
+- Nearly half of all immigrants are full U.S. citizens.  
+- Another quarter are green card holders.  
+- And roughly a quarter are **undocumented, liminal, or “legal-ish” but not secure.**
 
 This isn’t a foreign horde. It’s **your coworkers, neighbors, babysitters, and bosses.**
-
-They’re already here.  
-They’ve been here.  
-And pretending otherwise isn’t just delusional—it’s destructive.
-
-Absolutely. Let’s rip off the Band-Aid and answer the question your favorite pundits *never* ask: **why the hell are people coming here without papers in the first place?**
+- They’re already here.  
+- They’ve been here.  
+- And pretending otherwise isn’t just delusional—it’s destructive.
 
 ## Why Unauthorized Migration Happens: It's Not a Mystery
 
 You hear it every election cycle:  
 > “Why don’t they come legally?”
 
-Because the system’s rigged. Not by some globalist conspiracy.  
+Because the system’s rigged. Not by some globalist conspiracy. 
+
 By decades of policy written by people who wanted the *labor*, not the *citizens*.
 
 Let’s unpack the bait-and-switch.
@@ -661,6 +670,7 @@ Only available **outside the U.S.** You can’t be here already. You’ll also n
 
 #### Asylum?  
 You have to be on U.S. soil or at a port of entry to even apply [5](https://www.uscis.gov/glossary-term/50691).  
+
 Then wait in limbo for **years**, praying your claim fits one of five narrow legal grounds—*not* including poverty, gang violence, or climate collapse [15](https://www.americanimmigrationcouncil.org/research/asylum-united-states).
 
 #### Tourist Visa?  
@@ -671,7 +681,8 @@ Must prove you have **no intent to stay**, **stable income**, and **strong ties 
 ### You Don’t “Just Get In Line” If There’s No Line for You
 
 There is **no line** for most of the world.  
-No visa. No channel. No path.
+
+> No visa. No channel. No path.
 
 <figure style="width: 100%; margin: 2em 0;">
   <svg viewBox="0 0 800 500" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
@@ -756,7 +767,7 @@ Millions pick option 3. Because the odds here, even undocumented, beat **certain
         <td style="padding: 10px;">Apply for parole on CBP One</td>
         <td style="padding: 10px;">App crashes. Try again next month.</td>
       </tr>
-      <tr style="background: #f9f9f9;">
+      <tr style="background: #444444;">
         <td style="padding: 10px;">You’re a Venezuelan engineer with no U.S. ties</td>
         <td style="padding: 10px;">Apply for asylum</td>
         <td style="padding: 10px;">7-year waitlist. Hope your case fits a “category.”</td>
@@ -766,7 +777,7 @@ Millions pick option 3. Because the odds here, even undocumented, beat **certain
         <td style="padding: 10px;">Request refugee status</td>
         <td style="padding: 10px;">Can’t do that here. Try a UN camp. Good luck.</td>
       </tr>
-      <tr style="background: #f9f9f9;">
+      <tr style="background: #444444;">
         <td style="padding: 10px;">You’re a U.S. citizen’s adult sibling from the Philippines</td>
         <td style="padding: 10px;">Apply through family sponsorship</td>
         <td style="padding: 10px;">Check back in 2039.</td>
@@ -779,7 +790,7 @@ Millions pick option 3. Because the odds here, even undocumented, beat **certain
     </tbody>
   </table>
   <figcaption>
-    U.S. immigration: more Kafka than Ellis Island. You don’t need luck. You need money, connections, or a miracle. Sources: <a href="https://www.uscis.gov">USCIS</a>, <a href="https://www.migrationpolicy.org">MPI</a>
+    U.S. immigration: more Black Mirror than Ellis Island. You don’t need luck. You need money, connections, or a miracle. Sources: <a href="https://www.uscis.gov">USCIS</a>, <a href="https://www.migrationpolicy.org">MPI</a>
   </figcaption>
 </figure>
 
@@ -798,7 +809,7 @@ Guess what? Most people fleeing gang control in Port-au-Prince don’t have:
 - A valid passport
 - A fluent English-speaking U.S. sponsor with tax returns handy
 
-It’s Hunger Games meets Kafka.
+It’s Hunger Games meets Black Mirror.
 
 ### Bottom Line? Legal Migration Is for the Lucky and the Rich
 
@@ -816,9 +827,7 @@ If you're:
 - Desperate
 - Or just born in the wrong country
 
-...you get the border wall, the detention bed, or the asylum backlog from hell.
-
-You got it. Time to follow the money—and the missiles.
+...you get the border wall, the detention bed, the asylum backlog from hell - or if you have [a soccer tattoo you just might get sent to CECOT to die](https://wokedissident.com/2025/constitution-dead-ice-disappearances#cecot-is-a-death-camp-but-they-torture-you-first).
 
 ## Executive Failure: Every President Built This Crisis
 
@@ -836,6 +845,7 @@ Some highlights?
 - **Trump 2.0**: Now doing it all again, just faster.
 
 And the damage is cumulative.  
+
 This isn’t “partisan.” It’s a **timeline of deliberate sabotage.**
 
 <style>
@@ -949,34 +959,61 @@ And each one tightened the screws.
 Let’s stop pretending this is some cosmic mystery. People don’t risk their lives in the Darién Gap for fun. They’re not hiking 2,000 miles with toddlers because they “hate our laws.”
 
 <figure style="width: 100%; margin: 2em 0;">
-  <svg viewBox="0 0 800 120" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .bar { fill: #ffcc00; }
-      .tick { stroke: #333; stroke-width: 1; }
-      .text { font: 12px sans-serif; fill: #000; text-anchor: middle; }
-    </style>
-    <rect width="100%" height="100%" fill="#fcfcfc"/>
-    
-    <text x="400" y="20" font-size="14" text-anchor="middle">Typical Temporary Protected Status (TPS) Cycle</text>
-    
-    <rect x="100" y="40" width="600" height="30" class="bar"/>
-    <!-- Ticks -->
-    <line x1="100" y1="40" x2="100" y2="75" class="tick"/>
-    <line x1="300" y1="40" x2="300" y2="75" class="tick"/>
-    <line x1="500" y1="40" x2="500" y2="75" class="tick"/>
-    <line x1="700" y1="40" x2="700" y2="75" class="tick"/>
-    <!-- Labels -->
-    <text x="100" y="95" class="text">Initial Grant</text>
-    <text x="300" y="95" class="text">Renewal</text>
-    <text x="500" y="95" class="text">Renewal</text>
-    <text x="700" y="95" class="text">Still Waiting...</text>
-  </svg>
+  <canvas id="tpsCycleChart" style="max-width: 100%; height: 200px;"></canvas>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+      const ctx = document.getElementById('tpsCycleChart').getContext('2d');
+
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ['Initial Grant', 'Renewal #1', 'Renewal #2', 'Still Waiting...'],
+          datasets: [{
+            label: 'Years in Limbo',
+            data: [1, 3, 5, 20],
+            backgroundColor: [
+              '#ffc107',
+              '#ff9800',
+              '#f57c00',
+              '#d32f2f'
+            ],
+            borderRadius: 5,
+            barPercentage: 0.6,
+            categoryPercentage: 0.6
+          }]
+        },
+        options: {
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: (context) => `${context.formattedValue} years`
+              }
+            }
+          },
+          scales: {
+            y: {
+              beginAtZero: true,
+              ticks: {
+                callback: value => `${value}y`,
+                stepSize: 5
+              },
+              title: {
+                display: true,
+                text: 'Years Since Arrival'
+              }
+            }
+          }
+        }
+      });
+    </script>
   <figcaption>
     TPS offers temporary safety—but no permanent future. Many recipients have been here over 20 years. Source: <a href="https://www.migrationpolicy.org">MPI</a>
   </figcaption>
 </figure>
 
-They’re running from fire.  
+They’re running from fire. 
+
 And spoiler: we helped light it.
 
 ### Haiti: Decades of Interventions, Zero Stability
@@ -987,7 +1024,7 @@ Haiti isn’t a failed state. It’s a **systematically sabotaged one**.
 - After the 2010 earthquake, billions in foreign aid flowed in. The **Red Cross raised half a billion dollars** and built… *six houses* [34](https://www.propublica.org/article/how-the-red-cross-raised-half-a-billion-dollars-for-haiti-and-built-6-homes).
 - The U.S. backed President Jovenel Moïse even as he ruled by decree, delayed elections, and oversaw worsening repression. His 2021 assassination created a power vacuum now filled by **heavily armed gangs**, not public officials [25](https://www.congress.gov/crs-product/R47394) [35](https://www.crisisgroup.org/latin-america-caribbean/caribbean/haiti/107-locked-transition-politics-and-violence-haiti).
 
-Today?  
+**Today?**
 Haitians flee cities where the police have fled, and **gangs run the ports and airports**. Kidnappings, rape, and arson are part of daily life [25](https://www.congress.gov/crs-product/R47394) [31](https://www.rescue.org/article/haiti-political-instability-gang-violence-and-disease). The state is missing. And the U.S.? Still backing a “Transitional Presidential Council” so unpopular it’s **debating itself in circles** while the country burns [35](https://www.crisisgroup.org/latin-america-caribbean/caribbean/haiti/107-locked-transition-politics-and-violence-haiti).
 
 ### Venezuela: Sanctions, Starvation, and a Collapsing State
@@ -1052,11 +1089,13 @@ Yes, Maduro is a corrupt authoritarian. Yes, Chavismo helped wreck the economy. 
 </figure>
 
 “Maximum pressure” didn’t topple Maduro.  
+
 **It crushed the people he ruled.**
 
 ### U.S. Policy: The Arsonist Who Shows Up With a Hose
 
 Haitians and Venezuelans aren’t coming because Biden “invited” them or because Trump “wasn’t tough enough.”  
+
 They’re coming because **their countries disintegrated**, and Washington helped push them off the cliff.
 
 Then, instead of offering real refuge, we hand them:
@@ -1065,6 +1104,7 @@ Then, instead of offering real refuge, we hand them:
 - An **asylum backlog stretching into 2028** [23](https://www.migrationpolicy.org/article/venezuelan-immigrants-united-states-2025)
 
 And when that doesn’t work?  
+
 We toss them on a deportation flight.  
 
 It’s like blaming a housefire victim for not using the front door.
@@ -1082,6 +1122,7 @@ If you think crossing jungles, dodging cartels, and risking death for a $15 dish
 Studies show that migrants from Venezuela and Haiti overwhelmingly cite **violence, hunger, and persecution** as reasons for leaving—not welfare handouts [13](https://reporting.unhcr.org/operational/situations/venezuela-situation) [31](https://www.rescue.org/article/haiti-political-instability-gang-violence-and-disease). Venezuelan migrants are disproportionately **skilled professionals**, doctors, teachers, engineers—now delivering Uber Eats in Bogotá or New York [48](https://documents1.worldbank.org/curated/en/099022024085522704/pdf/P17578013f69d804019f8516ffbb072fc34.pdf).
 
 These aren’t opportunists.  
+
 They’re survivors.
 
 ### Myth #2: “Sanctions don’t affect migration.”
@@ -1101,63 +1142,71 @@ If by “open” you mean **thousands deported and locked up daily**, then sure.
 Border apprehensions of Haitians and Venezuelans have surged—but so have **expulsions, removals, and detentions** [3](https://www.migrationpolicy.org/article/haitian-immigrants-united-states-2022) [23](https://www.migrationpolicy.org/article/venezuelan-immigrants-united-states-2025). Title 42 turned back over 2 million people during the pandemic, including families and asylum seekers. Even after it ended, new asylum rules require migrants to first apply in a third country—many of which are *less safe* than the ones they fled [23](https://www.migrationpolicy.org/article/venezuelan-immigrants-united-states-2025).
 
 <figure style="width: 100%; margin: 2em 0;">
-  <svg viewBox="0 0 800 400" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .axis { stroke: #333; stroke-width: 1; }
-      .bar-app { fill: #1f77b4; }
-      .bar-rem { fill: #d62728; }
-      .label { font: 12px sans-serif; fill: #333; text-anchor: middle; }
-      .title { font: bold 15px sans-serif; fill: #111; text-anchor: middle; }
-    </style>
-
-    <rect width="100%" height="100%" fill="#fffefc"/>
-    <text x="400" y="30" class="title">U.S. Border Apprehensions vs. Removals (FY2019–FY2023)</text>
-
-    <!-- Bars FY2019 -->
-    <rect x="120" y="160" width="40" height="140" class="bar-app"/>
-    <text x="140" y="155" class="label">859K</text>
-    <rect x="160" y="220" width="40" height="80" class="bar-rem"/>
-    <text x="180" y="215" class="label">267K</text>
-    <text x="150" y="310" class="label">2019</text>
-
-    <!-- Bars FY2020 -->
-    <rect x="240" y="200" width="40" height="100" class="bar-app"/>
-    <text x="260" y="195" class="label">458K</text>
-    <rect x="280" y="240" width="40" height="60" class="bar-rem"/>
-    <text x="300" y="235" class="label">185K</text>
-    <text x="270" y="310" class="label">2020</text>
-
-    <!-- Bars FY2021 -->
-    <rect x="360" y="100" width="40" height="200" class="bar-app"/>
-    <text x="380" y="95" class="label">1.66M</text>
-    <rect x="400" y="200" width="40" height="100" class="bar-rem"/>
-    <text x="420" y="195" class="label">338K</text>
-    <text x="390" y="310" class="label">2021</text>
-
-    <!-- Bars FY2022 -->
-    <rect x="480" y="80" width="40" height="220" class="bar-app"/>
-    <text x="500" y="75" class="label">2.2M</text>
-    <rect x="520" y="180" width="40" height="120" class="bar-rem"/>
-    <text x="540" y="175" class="label">360K</text>
-    <text x="510" y="310" class="label">2022</text>
-
-    <!-- Bars FY2023 -->
-    <rect x="600" y="100" width="40" height="200" class="bar-app"/>
-    <text x="620" y="95" class="label">2.06M</text>
-    <rect x="640" y="160" width="40" height="140" class="bar-rem"/>
-    <text x="660" y="155" class="label">472K</text>
-    <text x="630" y="310" class="label">2023</text>
-
-    <!-- Legend -->
-    <rect x="620" y="340" width="20" height="10" class="bar-app"/>
-    <text x="645" y="349" class="label" style="text-anchor: start;">Apprehensions</text>
-    <rect x="620" y="360" width="20" height="10" class="bar-rem"/>
-    <text x="645" y="369" class="label" style="text-anchor: start;">Removals</text>
-  </svg>
-  <figcaption>
-    The border isn’t “open.” It’s overcrowded, over-policed, and still tossing out hundreds of thousands. Source: <a href="https://www.dhs.gov/immigration-statistics">DHS Immigration Statistics</a>
+  <canvas id="borderAppRemovalsChart" style="max-width: 100%; height: 400px;"></canvas>
+  <figcaption style="margin-top: 0.75em; font-size: 0.9em;">
+    The border isn’t “open.” It’s overcrowded, over-policed, and still tossing out hundreds of thousands. 
+    Source: <a href="https://www.dhs.gov/immigration-statistics" target="_blank" rel="noopener">DHS Immigration Statistics</a>
   </figcaption>
 </figure>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const ctx = document.getElementById('borderAppRemovalsChart').getContext('2d');
+
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['2019', '2020', '2021', '2022', '2023'],
+        datasets: [
+          {
+            label: 'Apprehensions',
+            data: [859000, 458000, 1660000, 2200000, 2060000],
+            backgroundColor: '#1f77b4'
+          },
+          {
+            label: 'Removals',
+            data: [267000, 185000, 338000, 360000, 472000],
+            backgroundColor: '#d62728'
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { position: 'bottom' },
+          tooltip: {
+            callbacks: {
+              label: context => {
+                const val = context.parsed.y.toLocaleString();
+                return `${context.dataset.label}: ${val}`;
+              }
+            }
+          },
+          title: {
+            display: true,
+            text: 'U.S. Border Apprehensions vs. Removals (FY2019–FY2023)',
+            font: {
+              size: 16
+            }
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            ticks: {
+              callback: value => `${(value / 1000).toLocaleString()}K`
+            },
+            title: {
+              display: true,
+              text: 'People (Thousands)'
+            }
+          }
+        }
+      }
+    });
+  });
+</script>
 
 Meanwhile, parole programs require a U.S. sponsor, internet access, and the patience of a DMV line from hell. And TPS? Only if you were already here.
 
