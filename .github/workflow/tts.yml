@@ -6,6 +6,9 @@ on:
     paths:
       - "_posts/**/*.md"
 
+permissions:
+  contents: write
+
 jobs:
   tts:
     runs-on: ubuntu-latest
@@ -22,16 +25,15 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install google-cloud-texttospeech python-frontmatter pydub
+          pip install google-cloud-texttospeech python-frontmatter pydub markdown beautifulsoup4
 
       - name: Authenticate with Google Cloud
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}
         run: |
-          echo "${GOOGLE_APPLICATION_CREDENTIALS_JSON}" > gcloud-key.json
-          export GOOGLE_APPLICATION_CREDENTIALS=gcloud-key.json
+          echo "${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}" > gcloud-key.json
 
       - name: Generate TTS audio
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/gcloud-key.json
         run: python scripts/generate_tts.py
 
       - name: Commit and push audio files
@@ -39,5 +41,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add assets/audio/*.mp3 || true
-          git commit -m "Add TTS audio files" || echo "No changes to commit"
-          git push
+          git commit -m "🔊 Add TTS audio files" || echo "No changes to commit"
+          git push origin main
