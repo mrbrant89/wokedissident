@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 vendor
 gcloud-key.json
-generate_tts.py
+/generate_tts.py
