@@ -37,7 +37,7 @@ jobs:
           export GOOGLE_APPLICATION_CREDENTIALS=gcloud-key.json
 
       - name: Generate TTS audio
-        run: python script/generate_tts.py
+        run: python scripts/generate_tts.py
 
       - name: Commit and push audio files
         run: |
