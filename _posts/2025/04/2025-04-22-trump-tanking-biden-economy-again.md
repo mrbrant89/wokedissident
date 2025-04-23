@@ -1527,29 +1527,29 @@ Trump already blew up the economy once. Now he’s back to finish the job.
 
 If Trump was ever “for the working class,” so was Enron. He inherited a growing economy, juiced it with billionaire tax cuts, and crashed it into a pandemic wall. Biden took over with the country in economic ruins—and still rebuilt it faster than any president in modern history.
 
-By the end of 2024, the U.S. wasn’t just recovering—it was *leading the world*. Jobs were up. Wages were up. Inflation was down. Markets were climbing.
+By the end of 2024, the U.S. wasn’t just recovering—it was leading the world. Jobs were up. Wages were up. Inflation was down. Markets were climbing.
 
 But Trump is back. And just three months into his second act, the economy’s already flinching.
 
 Let’s talk about the scoreboard.
 
-Under Trump’s first term, the economy **lost 2.9 million jobs**. He became the first president since Hoover to leave office with fewer jobs than he started with. Biden? **Added 15.6 million.** That’s a net difference of over **18 million jobs** between them.
+Under Trump’s first term, the economy lost 2.9 million jobs. He became the first president since Hoover to leave office with fewer jobs than he started with. Biden? Added 15.6 million. That’s a net difference of over 18 million jobs between them.
 
-GDP growth? Trump averaged **1.4 percent** a year. Biden? **More than double that—3.25 percent.**
+GDP growth? Trump averaged 1.4 percent a year. Biden? More than double that—3.25 percent.
 
-Real wages? They rose under both. Trump saw a gain of **$14 per week**, Biden saw **$11**—and that was while fighting off inflation, war, and a pandemic hangover.
+Real wages? They rose under both. Trump saw a gain of $14 per week, Biden saw $11—and that was while fighting off inflation, war, and a pandemic hangover.
 
-Inflation? Sure, it spiked under Biden—peaking at **9 percent in mid-2022**. But by early 2025, it cooled to **2.4 percent**—almost exactly the Fed’s target. Trump’s average inflation rate was lower, around **1.9 percent**, but that came during a global demand crash and spiraling deficits.
+Inflation? Sure, it spiked under Biden—peaking at 9 percent in mid-2022. But by early 2025, it cooled to 2.4 percent—almost exactly the Fed’s target. Trump’s average inflation rate was lower, around 1.9 percent, but that came during a global demand crash and spiraling deficits.
 
-Speaking of deficits: Trump blew a **$3.1 trillion hole** in 2020. Biden? By 2024, had it down to **$1.83 trillion**. Under Trump 2.0? **Already climbing again.**
+Speaking of deficits: Trump blew a $3.1 trillion hole in 2020. Biden? By 2024, had it down to $1.83 trillion. Under Trump 2.0? Already climbing again.
 
-Markets? The S&P 500 rose nearly **70 percent** under Trump’s first term. It grew **34 percent** under Biden. But since Trump returned in January 2025, the market’s dropped **3.2 percent**—in just three months.
+Markets? The S&P 500 rose nearly 70 percent under Trump’s first term. It grew 34 percent under Biden. But since Trump returned in January 2025, the market’s dropped 3.2 percent—in just three months.
 
-Consumer confidence? It cratered in 2020 under Trump, **rebounded under Biden**, then **dropped again** when Trump returned.
+Consumer confidence? It cratered in 2020 under Trump, rebounded under Biden, then dropped again when Trump returned.
 
 Now let’s talk about the tax cuts.
 
-Trump’s 2017 Tax Cuts and Jobs Act handed the top 1 percent the biggest slice—**a 3.8 percentage point cut** in their effective tax rate. Meanwhile, the bottom fifth of earners got **less than half a point**. Oh, and most middle-class cuts expire after 2025. Corporate cuts? Permanent.
+Trump’s 2017 Tax Cuts and Jobs Act handed the top 1 percent the biggest slice—a 3.8 percentage point cut in their effective tax rate. Meanwhile, the bottom fifth of earners got less than half a point. Oh, and most middle-class cuts expire after 2025. Corporate cuts? Permanent.
 
 At the border, encounters surged under both Trump and Biden. The real spike began in 2019, jumped post-COVID, and kept rising due to global migration pressures. Biden ended Title 42. Trump built memes, not solutions.
 
@@ -1583,7 +1583,7 @@ But if you still believe Trump’s some working-class savior while he’s handin
 
 Here’s a simple question:
 
-**If Trump built the economy, why did it collapse the second he had to govern through crisis?**
+If Trump built the economy, why did it collapse the second he had to govern through crisis?
 
 Biden stabilized it.
 
