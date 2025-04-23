@@ -111,7 +111,9 @@ Europe passed its pre-COVID tourism levels in 2024. The U.S.? Still lagging behi
 
 While Europe was popping champagne, the U.S. was strip-searching teenagers in Honolulu.
 
-Even worse, **Canada**, our neighbor and frequent visitor, stayed home. In 2024, Canadian visits to Florida were **down 20%** from 2019. By Q4, that drop hit **32%** <a href="https://flgov.com/eog/sites/default/files/shared/2025/02/Q4%202024%20Estimates%20Packet.pdf">[2]</a>. What’s the excuse? It’s not the weather.
+Even worse, **Canada**, our snowbird neighbor and economic lifeline, has stopped showing up. Spring break in Florida usually means a flood of Canadians escaping the cold—families, retirees, college kids. Not this year. In 2025, Canadian travel to Florida cratered. Advance airline bookings for the summer are **down over 70%** compared to 2024. And spring break? **A ghost town.** 
+
+Toronto Pearson—one of the busiest airports in the world—had **a completely empty U.S. pre-clearance zone**. Dozens of immigration kiosks, not a single traveler in line. For those who can read the room, that looks a lot like a boycott. And the excuse? It’s not the weather. It’s not inflation. It’s the vibe. The growing fear that crossing into Trump’s America means risking your privacy, your plans—or your freedom.
 
 The numbers tell the story: Trump’s America is becoming a no-fly zone—not because people can’t come, but because they don’t want to.
 
@@ -161,9 +163,11 @@ Instead, they were **interrogated, strip-searched, forced into prison uniforms**
   <figcaption>Forget drug mules. The new enemy at the border? Grad students and backpackers.</figcaption>
 </figure>
 
-This isn’t about security. It’s about spectacle. It’s a flex—a warning shot to the rest of the world: **don’t come here unless you're ready to be humiliated.**
+This bout spectacle - performative cruelty - not security. It’s a flex—a warning shot to the rest of the world: **don’t come here unless you're ready to be humiliated.**
 
-And the agents doing it? **They don’t need a reason.** Under current rules:
+And the agents doing it? **They don’t need a reason.** 
+
+Under current rules:
 - They can **search your phone** without probable cause <a href="https://flgov.com/eog/sites/default/files/shared/2025/02/Q4%202024%20Estimates%20Packet.pdf">[2]</a>.
 - They can **detain you for “attitude.”**
 - They can dig through your photos, texts, social media, and political views—then decide if you're "safe."
@@ -228,15 +232,15 @@ And the agents doing it? **They don’t need a reason.** Under current rules:
 </script>
 
 Even green card holders aren’t safe.  
-Even U.S. citizens get grilled if they “seem foreign” enough.  
-And tourists? They’re now expected to prove they’re not secretly bloggers or radicals.
 
-This isn’t border security.  
-This is **ideological screening in a Hawaiian shirt**.
+Even U.S. citizens get grilled if they “seem foreign” enough.  
+
+And tourists? They’re now expected to prove they’re not secretly bloggers or radicals.
 
 ## Spying on Tourists? That’s One Way to Tank an Industry
 
 Want to scare off a tourist? Easy.  
+
 Treat them like they’re trying to smuggle uranium every time they cross the border.
 
 That’s exactly what the U.S. is doing. In 2025, **CBP ramped up its “search everything” policy**, digging through tourists’ phones, laptops, and even social media—with zero suspicion required.
@@ -354,8 +358,10 @@ A headline that says "Tough on Borders" while the tourism sector bleeds out.
 
 ## Florida, You Played Yourself
 
-Trump’s base isn’t in D.C.  
+Trump’s base isn’t in D.C., California or New York.
+
 It’s in the red states living off mouse ears, frozen daiquiris, and sunburnt Canadians.  
+
 And thanks to his border paranoia? They’re about to **lose their biggest cash cow**.
 
 ### Florida’s economy in one word: tourism.
@@ -380,19 +386,22 @@ Now imagine that vanishing.
 </figure>
 
 ### Canadian visits to Florida?  
-**Down 20%** in 2024.  
-**Down 32%** in Q4 alone <a href="https://flgov.com/eog/sites/default/files/shared/2025/02/Q4%202024%20Estimates%20Packet.pdf">[2]</a>.  
+**Still 20% below pre-pandemic levels**.  
+**Spring 2025 traffic cratered**—Toronto Pearson’s U.S. customs hall sat empty during peak break season.  
+**Q4 2024** was **32% below 2019**, and early **2025 bookings are worse**.  
+<a href="https://flgov.com/eog/sites/default/files/shared/2025/02/Q4%202024%20Estimates%20Packet.pdf">[2]</a> 
 
 ### Airline bookings for summer 2025?  
 **Canadian routes: down over 70%** <a href="https://www.morningstar.com/news/marketwatch/20250423180/international-travelers-are-skipping-the-us-that-could-cost-americas-economy-90-billion">[3]</a>.  
 Europe’s pulling back too.
 
 This isn’t random.  
+
 This is the price of hostile borders, phone seizures, and **news stories about German girls being jailed for booking a cheap hostel**.
 
-Tourists don’t want to take political quizzes.  
-They don’t want their devices ransacked.  
-They don’t want to wonder if a border agent will misread their couchsurfing trip as an “illegal work scheme.”
+- Tourists don’t want to take political quizzes.  
+- They don’t want their devices ransacked.  
+- They don’t want to wonder if a border agent will misread their couchsurfing trip as an “illegal work scheme.”
 
 They just want Disney. And they’re choosing Paris over Orlando.
 
@@ -502,6 +511,7 @@ Analysts are slashing forecasts:
 ### Why?
 
 Because travel isn’t just a vacation.  
+
 It’s:
 - Thousands of hotels and restaurants
 - Theme parks, tours, and ticketed events
@@ -607,8 +617,7 @@ Spoiler: because you deported your income.
 
 You want to know how deep the damage goes?
 
-Trump’s war on tourists isn’t just torching Florida’s GDP or chasing off French backpackers.  
-It’s now threatening to get the **U.S. kicked out of its own damn World Cup**.
+Trump’s war on tourists isn’t just torching Florida’s GDP or chasing off French backpackers. It’s now threatening to get the **U.S. kicked out of its own World Cup**.
 
 Seriously.
 
@@ -634,15 +643,18 @@ Why the freakout? Because Trump’s policies threaten the **core logistics of th
 - Retaliatory boycotts
 - Shaky cross-border security
 
-FIFA doesn’t care about MAGA.  
+FIFA doesn’t care about MAGA. 
+
 FIFA cares about **TV money** and **uninterrupted spectacle**. Trump screws that up? They’ll cut the cord.
 
 ### And Here Comes the Boycott Threat
 
 The Olympics aren’t safe either.  
+
 The International Olympic Committee has already flagged concerns about **“hostile border policies,”** **LGBTQ+ athlete treatment**, and **visa unpredictability** under Trump 2.0 <a href="https://apnews.com/article/ioc-olympics-president-election-issues-74e4be4e3f21ba0e97892b052434e510">[19]</a>.
 
 Some allies—France, Germany, Australia—are **publicly warning travelers** about entering the U.S. <a href="https://travel.gc.ca/destinations/united-states">[20]</a>.  
+
 Others are **quietly discussing participation conditions**.
 
 <figure style="width: 100%; max-width: 100%; margin: 2em 0;">
@@ -719,8 +731,7 @@ And let’s not forget the **Olympic sponsors**, who are already skittish about 
 
 ### Sports Diplomacy Just Became a Liability
 
-The Olympics and World Cup were supposed to be America’s big comeback.  
-Instead, they might become **international incidents in Lycra**.
+The Olympics and World Cup were supposed to be America’s big comeback. Instead, they might become **international incidents in Lycra**.
 
 Want to know how fast global goodwill can evaporate?
 
@@ -753,28 +764,32 @@ We’re building Olympic stages and World Cup stadiums…
 ## We’re Not a Destination—We’re a Warning
 
 Once upon a time, people dreamed of visiting America.  
+
 Now they Google:  
 > *“Can I get deported for being gay in the U.S.?”*  
 > *“Can border patrol check my phone?”*  
 > *“Why were German teens jailed in Hawaii?”*
 
-This isn’t a tourism slump.  
-It’s a **reputation collapse**.  
-And we did it to ourselves.
+This isn’t just a tourism slump, but a **reputation collapse**. And we did it to ourselves.
 
-Every time Trump 2.0 throws red meat to the base with another border crackdown, the rest of the world sees a flashing red sign:  
+Every time Trump 2.0 throws red meat to the base with another border crackdown, the rest of the world sees a flashing red sign:
+
 **“ENTER AT YOUR OWN RISK.”**
 
 And red states?  
-They’re not just collateral damage.  
-They’re the ones bleeding out first.
+- They’re not just collateral damage.  
+- They’re the ones bleeding out first.
 
 Florida’s about to learn that you can’t strip-search your way to prosperity.  
+
 Texas will watch convention business vanish while shouting about "freedom."  
-Nevada’s casinos will go quiet—not because people lost interest, but because they booked a cheaper, friendlier trip to Canada.
+
+Nevada’s casinos will go quiet—not because people lost interest, but because they booked a cheaper, friendlier trip to Canada or Macau.
 
 Tourism isn’t just about flights and hotel rooms.  
+
 It’s about soft power.  
+
 It’s about being a country people *want* to come to.
 
 Right now?  
@@ -784,7 +799,8 @@ So congratulations, America.
 You turned the American Dream into a customs nightmare.  
 You scared off your own income.
 
-And now?  
+And now? 
+
 You’re wide open for the one thing tourists hate more than long lines and TSA patdowns:
 
 **Irrelevance.**
