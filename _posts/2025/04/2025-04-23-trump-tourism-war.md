@@ -2,7 +2,7 @@
 title: "How to Kill a $253 Billion Industry: Trump’s War on Tourists"
 description: "Strip-searching teenagers, deporting students, and interrogating tourists at the border. Trump 2.0 is torching U.S. tourism—and red states are about to feel the burn."
 permalink: /2025/trump-tourism-war
-date: 2025-04-23T12:00:00Z
+date: 2025-04-23T11:28:00Z
 classes: wide
 categories:
   - Politics
