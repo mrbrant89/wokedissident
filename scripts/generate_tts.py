@@ -30,8 +30,14 @@ client = texttospeech.TextToSpeechClient(credentials=creds)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def get_main_content_only(content):
+    # Look for hidden AudioTranscript section first
+    audio_match = re.search(r"<!--\s*## AudioTranscript(.*?)-->", content, re.DOTALL)
+    if audio_match:
+        print("🎧 Using hidden AudioTranscript")
+        return audio_match.group(1).strip()
+
+    # Fallback to normal extraction if no audio section is found
     try:
-        # Extract main content between heading and Sources
         start_match = re.search(r"(?i)^US Citizens Held.*", content, re.MULTILINE)
         start = start_match.start() if start_match else 0
         end_match = re.search(r"(?i)^##\s*Sources", content[start:], re.MULTILINE)
@@ -40,10 +46,10 @@ def get_main_content_only(content):
     except Exception:
         excerpt = content.strip()
 
-    # Convert Markdown to HTML
     rendered_html = markdown(excerpt)
     soup = BeautifulSoup(rendered_html, features="html.parser")
-    return soup.get_text(separator="\n")
+    plain_text = soup.get_text(separator="\n")
+    return plain_text
 
 def chunk_text(text, max_bytes):
     paragraphs = text.split("\n")
@@ -84,8 +90,12 @@ def generate_audio(post_path):
         return
 
     print(f"🎤 Generating TTS for: {filename}")
-    post = frontmatter.load(post_path)
-    content = get_main_content_only(post.content)
+
+    # 🔥 Read full Markdown file to access hidden HTML comment blocks
+    with open(post_path, "r", encoding="utf-8") as f:
+        raw_md = f.read()
+
+    content = get_main_content_only(raw_md)
     content = re.sub(r"<[^>]+>", "", content)
 
     chunks = chunk_text(content, MAX_BYTES)
