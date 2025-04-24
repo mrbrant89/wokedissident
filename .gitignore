@@ -5,3 +5,5 @@ _site
 vendor
 gcloud-key.json
 /generate_tts.py
+localhost.crt
+localhost.key
