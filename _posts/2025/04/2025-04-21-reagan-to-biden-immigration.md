@@ -860,7 +860,7 @@ This isn’t “partisan.” It’s a **timeline of deliberate sabotage.**
     position: absolute;
     left: 2rem;
     width: 4px;
-    height: 90%;
+    height: 100%;
     background: #fff;
   }
 
@@ -947,7 +947,6 @@ This isn’t “partisan.” It’s a **timeline of deliberate sabotage.**
     <h4>2025</h4>
     <p><strong>Trump 2.0</strong> starts with ICE raids, executive mass removals, and legal defiance of court orders <a href="#sources">[23]</a>.</p>
   </div>
-
 </div>
 
 Each admin kicked the can.  

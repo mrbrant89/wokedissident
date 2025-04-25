@@ -163,7 +163,7 @@ Instead, they were **interrogated, strip-searched, forced into prison uniforms**
   <figcaption>Forget drug mules. The new enemy at the border? Grad students and backpackers.</figcaption>
 </figure>
 
-This bout spectacle - performative cruelty - not security. It’s a flex—a warning shot to the rest of the world: **don’t come here unless you're ready to be humiliated.**
+This is about spectacle - performative cruelty - not security. It’s a flex—a warning shot to the rest of the world: **don’t come here unless you're ready to be humiliated.**
 
 And the agents doing it? **They don’t need a reason.** 
 
