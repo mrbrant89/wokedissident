@@ -882,7 +882,7 @@ Because the real conspiracy?
 | [24] | <a href="https://www.humanrightsfirst.org/wp-content/uploads/2023/06/IsCBPOneAFairApp_FINAL.pdf">CBP One App Analysis – Human Rights First</a> |
 | [25] | <a href="https://www.technologyreview.com/2023/11/29/1083171/the-us-border-app-is-pushing-asylum-seekers-to-hack-their-location/">CBP One Glitches – MIT Technology Review</a>
 
-<!--
+<!-- 
 ## AudioTranscript
 
 You’re looking for conspiracies in the wrong place.
