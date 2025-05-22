@@ -156,18 +156,13 @@ Now, just weeks later, they’ve done the opposite—silently rewriting the soci
 
 They didn’t just go back on their word. They designed the budget to hide the cuts under technocratic language—*“reforms,” “streamlining,” “federal savings,”* and “PAYGO.” But when the Congressional Budget Office ran the numbers, the truth became impossible to deny:
 
-Millions will lose coverage. Seniors will lose protections. And once again, the ultra-rich won’t lose a dime.
+> Millions will lose coverage. Seniors will lose protections. And once again, the ultra-rich won’t lose a dime.
 
 ## The Reality: What the FY2026 Budget Actually Does
 
 ### Medicare: Up to $500 Billion in Cuts
 
 Despite repeated promises, the FY2026 budget places Medicare squarely on the chopping block through both **direct policy changes** and **automatic cuts triggered by deficit rules**.
-
-<figure class="mb-6">
-  <img src="/assets/images/2025/05/brianschatz-1.jpeg" alt="Brian Schatz quote about midnight hearings and wealth transfer" style="width:100%;max-width:700px;">
-  <figcaption class="caption mt-2 text-muted">“You don’t convene a hearing at 1 in the morning if you think your bill is popular.” —Sen. Brian Schatz</figcaption>
-</figure>
 
 ### PAYGO Triggered: Automatic $500B Cuts to Medicare
 
